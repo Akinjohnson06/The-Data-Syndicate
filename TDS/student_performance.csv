@@ -1,0 +1,504 @@
+﻿age,gender,level,exam_score,score_grade,study_hours,private_tutoring,pastquestions_practice,online_platforms,confidence_level,computer_lab_access,teaching_quality,mock_exams,study_materials,teachers_help,internet_access,commuting,financial_support,health_challenges,parents_education,remarks
+15,Female,SS2,68,Average,4,Occasionally,Occasionally,Yes,4,No,3,Occasionally,No,Frequently,No,Walking,1,Yes,No formal education,Pass
+18,Female,SS1,82,Excellent,4,Never,Always,No,2,Yes,3,Always,Yes,Always,No,Walking,4,Yes,Primary education,Fail
+17,Male,SS1,94,Excellent,2,Occasionally,Never,Yes,5,No,2,Always,No,Occasionally,Yes,Walking,2,No,Primary education,Pass
+17,Male,SS2,66,Average,5,Never,Never,Yes,5,Yes,1,Never,Yes,Never,Yes,School Bus,5,Yes,Tertiary education,Pass
+16,Female,SS3,99,Excellent,2,Always,Never,No,3,No,4,Occasionally,Yes,Never,No,Private Transportation,1,Yes,Primary education,Pass
+15,Male,SS3,57,Pass,4,Frequently,Never,Yes,4,No,1,Never,Yes,Always,No,Private Transportation,2,Yes,Tertiary education,Pass
+15,Female,SS3,66,Average,2,Occasionally,Never,No,2,No,2,Frequently,Yes,Frequently,No,School Bus,5,Yes,Primary education,Fail
+16,Male,SS1,97,Excellent,2,Always,Always,Yes,3,Yes,1,Never,Yes,Frequently,No,Walking,3,Yes,No formal education,Pass
+16,Female,SS2,92,Excellent,2,Occasionally,Always,No,4,No,3,Occasionally,No,Frequently,No,Private Transportation,4,Yes,Secondary education,Pass
+18,Male,SS3,95,Excellent,3,Always,Never,No,5,Yes,3,Never,Yes,Frequently,Yes,Private Transportation,1,Yes,Tertiary education,Pass
+18,Male,SS2,62,Average,5,Frequently,Never,Yes,2,Yes,1,Never,Yes,Occasionally,Yes,School Bus,2,Yes,Secondary education,Fail
+18,Male,SS1,71,Good,4,Never,Always,No,1,No,2,Frequently,Yes,Frequently,No,Private Transportation,3,No,Secondary education,Fail
+16,Male,SS1,47,Fail,3,Occasionally,Frequently,No,2,Yes,4,Occasionally,Yes,Always,Yes,Public Transportation,4,No,Secondary education,Fail
+17,Female,SS2,63,Average,4,Frequently,Frequently,Yes,1,No,4,Never,Yes,Always,Yes,Public Transportation,2,No,Primary education,Fail
+16,Female,SS3,45,Fail,3,Frequently,Frequently,Yes,2,No,5,Always,Yes,Never,No,Public Transportation,1,No,Secondary education,Fail
+17,Male,SS3,96,Excellent,4,Occasionally,Frequently,No,5,No,4,Occasionally,No,Frequently,Yes,Walking,5,No,Tertiary education,Pass
+16,Female,SS3,58,Pass,3,Occasionally,Never,Yes,2,Yes,2,Frequently,Yes,Never,No,School Bus,4,Yes,Tertiary education,Fail
+16,Male,SS2,92,Excellent,2,Never,Always,Yes,1,Yes,5,Occasionally,No,Never,No,Walking,5,No,No formal education,Fail
+18,Female,SS1,53,Pass,1,Never,Frequently,Yes,4,Yes,2,Always,Yes,Frequently,Yes,School Bus,2,Yes,No formal education,Fail
+18,Male,SS3,52,Pass,5,Never,Occasionally,Yes,4,Yes,4,Frequently,Yes,Occasionally,Yes,School Bus,4,Yes,Tertiary education,Pass
+17,Male,SS1,53,Pass,2,Occasionally,Occasionally,Yes,5,Yes,1,Always,No,Occasionally,No,Public Transportation,1,Yes,Primary education,Pass
+18,Female,SS1,90,Excellent,3,Never,Never,No,5,Yes,1,Frequently,No,Occasionally,No,Walking,5,No,Primary education,Pass
+16,Female,SS2,68,Average,4,Frequently,Always,Yes,3,No,3,Occasionally,Yes,Occasionally,Yes,Walking,1,Yes,Primary education,Pass
+18,Male,SS1,94,Excellent,2,Always,Frequently,Yes,4,No,4,Occasionally,No,Frequently,No,Public Transportation,3,Yes,Tertiary education,Pass
+16,Female,SS3,42,Fail,1,Always,Always,Yes,5,No,1,Frequently,No,Occasionally,Yes,Private Transportation,2,Yes,Primary education,Fail
+15,Female,SS3,82,Excellent,4,Never,Always,No,4,Yes,4,Occasionally,Yes,Frequently,No,Public Transportation,5,Yes,Tertiary education,Pass
+16,Male,SS3,100,Excellent,1,Always,Occasionally,Yes,3,Yes,4,Frequently,Yes,Occasionally,No,School Bus,3,No,No formal education,Fail
+15,Male,SS1,52,Pass,4,Always,Frequently,Yes,4,Yes,4,Occasionally,No,Always,Yes,Private Transportation,4,No,Primary education,Pass
+17,Female,SS3,72,Good,1,Never,Always,No,5,Yes,5,Always,No,Never,No,Walking,1,No,Secondary education,Fail
+18,Female,SS2,79,Good,3,Frequently,Frequently,No,1,Yes,2,Never,No,Never,Yes,School Bus,5,Yes,Tertiary education,Fail
+18,Female,SS2,44,Fail,3,Occasionally,Occasionally,No,3,No,3,Occasionally,Yes,Always,No,Public Transportation,1,Yes,Primary education,Fail
+18,Female,SS3,52,Pass,5,Always,Occasionally,Yes,2,No,1,Always,No,Never,No,Public Transportation,5,No,Primary education,Fail
+15,Female,SS3,96,Excellent,1,Always,Occasionally,Yes,5,No,3,Never,No,Occasionally,No,School Bus,3,Yes,Primary education,Fail
+16,Female,SS2,48,Fail,3,Always,Never,Yes,1,Yes,4,Frequently,Yes,Always,Yes,School Bus,3,No,Tertiary education,Fail
+18,Female,SS1,75,Good,4,Frequently,Frequently,No,2,Yes,5,Always,No,Frequently,Yes,School Bus,4,Yes,Tertiary education,Fail
+18,Female,SS3,72,Good,1,Occasionally,Occasionally,No,1,No,5,Never,No,Always,Yes,Walking,3,No,No formal education,Fail
+18,Male,SS1,80,Excellent,3,Occasionally,Always,Yes,3,No,1,Always,Yes,Occasionally,No,Public Transportation,1,Yes,Tertiary education,Pass
+17,Male,SS3,46,Fail,4,Frequently,Frequently,Yes,5,Yes,4,Frequently,Yes,Occasionally,No,Public Transportation,5,No,Tertiary education,Fail
+17,Female,SS1,57,Pass,4,Always,Occasionally,No,3,Yes,1,Always,No,Always,Yes,Public Transportation,3,No,Tertiary education,Pass
+17,Female,SS1,71,Good,2,Never,Frequently,Yes,4,No,5,Occasionally,Yes,Frequently,Yes,Public Transportation,1,No,No formal education,Pass
+16,Female,SS3,96,Excellent,5,Always,Frequently,No,4,Yes,4,Occasionally,Yes,Always,No,Walking,3,No,Tertiary education,Pass
+15,Female,SS3,73,Good,1,Occasionally,Occasionally,No,4,Yes,2,Occasionally,Yes,Occasionally,Yes,Public Transportation,5,Yes,Primary education,Fail
+15,Female,SS2,61,Average,5,Never,Frequently,Yes,3,No,3,Never,Yes,Occasionally,Yes,Private Transportation,3,Yes,Primary education,Pass
+18,Male,SS2,96,Excellent,4,Occasionally,Occasionally,No,3,No,4,Frequently,No,Occasionally,No,Walking,4,Yes,No formal education,Pass
+18,Male,SS1,63,Average,1,Occasionally,Never,Yes,5,Yes,1,Frequently,Yes,Never,Yes,Walking,1,Yes,Tertiary education,Fail
+16,Female,SS1,91,Excellent,5,Never,Always,No,4,Yes,4,Never,No,Occasionally,Yes,School Bus,4,Yes,Primary education,Pass
+17,Female,SS3,85,Excellent,4,Frequently,Occasionally,No,2,Yes,1,Frequently,Yes,Always,No,Private Transportation,5,Yes,Tertiary education,Fail
+15,Male,SS3,69,Average,1,Always,Never,Yes,3,No,4,Frequently,No,Never,No,Public Transportation,5,Yes,No formal education,Fail
+17,Female,SS3,55,Pass,2,Occasionally,Always,Yes,1,Yes,2,Never,No,Frequently,Yes,Walking,2,Yes,Primary education,Fail
+18,Female,SS1,89,Excellent,4,Never,Always,Yes,5,Yes,5,Occasionally,No,Never,Yes,Public Transportation,2,No,No formal education,Pass
+18,Male,SS3,75,Good,3,Never,Occasionally,No,2,Yes,4,Never,Yes,Occasionally,No,Public Transportation,3,Yes,Secondary education,Fail
+16,Male,SS1,51,Pass,5,Always,Frequently,Yes,1,No,1,Frequently,No,Always,Yes,Public Transportation,3,No,Secondary education,Fail
+16,Female,SS1,70,Good,5,Occasionally,Frequently,Yes,4,Yes,2,Frequently,Yes,Frequently,No,Public Transportation,5,No,Secondary education,Pass
+17,Female,SS3,58,Pass,2,Frequently,Occasionally,Yes,5,No,1,Always,No,Occasionally,Yes,Private Transportation,4,No,Secondary education,Pass
+17,Female,SS2,71,Good,5,Always,Occasionally,No,4,No,1,Always,No,Never,No,Walking,5,No,Primary education,Pass
+15,Female,SS1,95,Excellent,5,Frequently,Frequently,No,1,No,3,Always,No,Frequently,Yes,Private Transportation,3,Yes,Secondary education,Fail
+16,Female,SS3,55,Pass,4,Never,Always,No,4,Yes,1,Never,No,Never,Yes,School Bus,2,No,No formal education,Pass
+17,Male,SS2,98,Excellent,4,Frequently,Occasionally,Yes,4,Yes,1,Always,Yes,Occasionally,No,Public Transportation,3,Yes,Primary education,Pass
+17,Male,SS2,88,Excellent,1,Never,Always,Yes,2,No,2,Frequently,No,Never,No,School Bus,5,No,Primary education,Fail
+18,Female,SS3,90,Excellent,5,Never,Never,No,3,Yes,1,Frequently,No,Always,No,Public Transportation,2,No,Tertiary education,Pass
+15,Female,SS2,90,Excellent,5,Frequently,Occasionally,No,5,No,2,Frequently,No,Occasionally,No,School Bus,3,No,Secondary education,Pass
+18,Male,SS1,97,Excellent,4,Always,Never,No,5,No,4,Always,Yes,Frequently,Yes,Walking,4,No,Tertiary education,Pass
+18,Male,SS2,67,Average,5,Occasionally,Occasionally,Yes,2,No,5,Always,Yes,Frequently,No,Public Transportation,3,No,No formal education,Fail
+15,Male,SS3,54,Pass,5,Never,Frequently,Yes,2,No,1,Occasionally,Yes,Frequently,Yes,School Bus,5,No,Tertiary education,Fail
+15,Male,SS2,84,Excellent,4,Never,Always,Yes,3,Yes,2,Frequently,No,Never,Yes,Public Transportation,3,No,No formal education,Pass
+15,Male,SS2,85,Excellent,2,Occasionally,Never,No,5,Yes,1,Frequently,No,Always,No,Walking,5,Yes,Tertiary education,Pass
+16,Male,SS3,75,Good,4,Never,Frequently,Yes,4,No,5,Frequently,No,Always,No,School Bus,5,No,No formal education,Pass
+18,Male,SS2,68,Average,2,Never,Frequently,No,1,Yes,3,Never,No,Never,No,Private Transportation,1,No,No formal education,Fail
+18,Male,SS2,46,Fail,1,Never,Occasionally,No,3,No,2,Frequently,Yes,Frequently,Yes,Public Transportation,4,No,Secondary education,Fail
+16,Male,SS3,62,Average,4,Occasionally,Never,No,4,No,5,Occasionally,Yes,Never,Yes,School Bus,5,Yes,No formal education,Pass
+15,Male,SS3,61,Average,2,Never,Always,Yes,3,No,4,Frequently,Yes,Frequently,Yes,Public Transportation,5,No,Secondary education,Pass
+16,Female,SS3,47,Fail,3,Occasionally,Always,No,3,Yes,4,Frequently,No,Never,Yes,Public Transportation,2,No,No formal education,Fail
+18,Female,SS2,42,Fail,1,Frequently,Never,No,4,No,1,Never,Yes,Always,Yes,Public Transportation,5,No,Tertiary education,Fail
+15,Female,SS1,78,Good,4,Occasionally,Always,No,3,No,3,Always,Yes,Occasionally,Yes,Public Transportation,1,Yes,No formal education,Pass
+15,Male,SS2,49,Fail,3,Never,Frequently,No,1,Yes,2,Always,Yes,Always,Yes,Public Transportation,1,No,Tertiary education,Fail
+15,Male,SS1,96,Excellent,4,Frequently,Never,Yes,5,No,2,Always,Yes,Never,Yes,School Bus,3,Yes,Tertiary education,Pass
+15,Female,SS1,92,Excellent,2,Always,Always,No,3,Yes,2,Never,No,Always,No,Walking,4,Yes,Tertiary education,Pass
+18,Male,SS3,61,Average,5,Always,Frequently,Yes,2,No,3,Occasionally,No,Occasionally,No,Public Transportation,5,Yes,Secondary education,Fail
+17,Male,SS3,64,Average,1,Occasionally,Occasionally,No,1,No,5,Never,No,Occasionally,Yes,Public Transportation,4,No,Primary education,Fail
+18,Female,SS1,45,Fail,1,Never,Always,No,2,No,3,Always,No,Never,No,Public Transportation,1,No,Primary education,Fail
+16,Male,SS3,82,Excellent,5,Never,Always,No,1,No,5,Always,Yes,Occasionally,No,School Bus,2,Yes,Tertiary education,Fail
+15,Female,SS1,69,Average,3,Frequently,Frequently,Yes,3,No,2,Frequently,Yes,Occasionally,Yes,School Bus,4,Yes,Tertiary education,Pass
+17,Female,SS1,50,Pass,2,Occasionally,Occasionally,Yes,4,Yes,2,Frequently,Yes,Frequently,Yes,School Bus,2,Yes,Secondary education,Pass
+17,Female,SS3,56,Pass,1,Always,Occasionally,No,5,No,3,Frequently,No,Occasionally,No,School Bus,1,Yes,Secondary education,Fail
+17,Female,SS3,92,Excellent,1,Always,Frequently,No,5,No,4,Never,Yes,Frequently,No,School Bus,3,Yes,No formal education,Fail
+18,Female,SS1,85,Excellent,2,Frequently,Occasionally,No,5,Yes,5,Never,No,Frequently,Yes,Walking,2,Yes,Secondary education,Pass
+16,Female,SS3,50,Pass,4,Always,Always,Yes,1,No,5,Never,Yes,Always,Yes,School Bus,1,No,No formal education,Fail
+17,Female,SS1,49,Fail,1,Occasionally,Always,No,1,Yes,2,Occasionally,No,Frequently,No,Private Transportation,1,No,No formal education,Fail
+16,Male,SS3,55,Pass,3,Never,Occasionally,Yes,3,No,1,Frequently,Yes,Occasionally,Yes,Private Transportation,3,No,Primary education,Pass
+17,Female,SS3,62,Average,1,Always,Always,Yes,1,No,4,Always,Yes,Occasionally,Yes,Walking,5,Yes,Primary education,Fail
+17,Male,SS3,40,Fail,5,Occasionally,Frequently,Yes,4,No,1,Occasionally,Yes,Frequently,Yes,Private Transportation,4,No,Tertiary education,Fail
+16,Male,SS1,56,Pass,3,Frequently,Occasionally,No,3,Yes,2,Never,No,Occasionally,Yes,School Bus,5,Yes,No formal education,Pass
+15,Male,SS3,62,Average,4,Occasionally,Occasionally,No,4,No,5,Frequently,Yes,Always,Yes,Private Transportation,3,No,Primary education,Pass
+17,Male,SS1,58,Pass,3,Never,Occasionally,No,5,Yes,2,Never,No,Occasionally,Yes,Private Transportation,2,No,Tertiary education,Pass
+17,Female,SS2,92,Excellent,5,Occasionally,Always,No,4,Yes,2,Always,Yes,Frequently,Yes,Public Transportation,1,No,Tertiary education,Pass
+18,Male,SS1,46,Fail,4,Always,Occasionally,No,5,No,5,Always,Yes,Never,Yes,Walking,1,Yes,No formal education,Fail
+16,Male,SS1,62,Average,4,Frequently,Frequently,Yes,1,Yes,2,Occasionally,Yes,Occasionally,Yes,Private Transportation,1,No,Tertiary education,Fail
+15,Male,SS1,72,Good,3,Never,Never,Yes,1,No,5,Never,No,Never,No,Public Transportation,4,No,No formal education,Fail
+18,Male,SS3,51,Pass,5,Frequently,Occasionally,No,2,No,4,Always,No,Occasionally,Yes,Walking,2,Yes,Primary education,Fail
+16,Female,SS3,96,Excellent,3,Always,Occasionally,Yes,1,Yes,2,Always,No,Occasionally,No,Walking,2,No,Tertiary education,Fail
+17,Female,SS2,87,Excellent,4,Occasionally,Frequently,No,4,Yes,2,Occasionally,No,Never,Yes,Private Transportation,4,Yes,Secondary education,Pass
+17,Male,SS3,80,Excellent,2,Never,Frequently,Yes,5,No,2,Frequently,Yes,Never,Yes,Public Transportation,5,Yes,No formal education,Pass
+17,Male,SS2,97,Excellent,1,Never,Occasionally,No,3,No,3,Always,Yes,Frequently,No,Public Transportation,3,Yes,No formal education,Fail
+16,Female,SS3,46,Fail,2,Frequently,Frequently,Yes,4,No,2,Frequently,No,Never,No,Walking,3,No,Primary education,Fail
+17,Female,SS3,66,Average,4,Occasionally,Occasionally,Yes,2,No,4,Never,No,Frequently,No,Walking,4,Yes,Primary education,Fail
+15,Female,SS1,48,Fail,1,Frequently,Frequently,No,1,Yes,2,Never,Yes,Frequently,Yes,Walking,2,No,Secondary education,Fail
+15,Female,SS2,67,Average,4,Frequently,Always,Yes,3,Yes,4,Never,Yes,Always,No,Private Transportation,5,Yes,No formal education,Pass
+15,Female,SS2,64,Average,4,Occasionally,Never,Yes,1,Yes,1,Always,Yes,Frequently,No,School Bus,1,Yes,Tertiary education,Fail
+16,Female,SS2,41,Fail,5,Never,Frequently,Yes,2,No,3,Occasionally,Yes,Never,No,Public Transportation,3,No,Tertiary education,Fail
+16,Female,SS2,79,Good,3,Never,Occasionally,No,5,No,4,Occasionally,Yes,Occasionally,No,Public Transportation,1,Yes,Primary education,Pass
+16,Female,SS2,60,Average,5,Occasionally,Occasionally,Yes,5,Yes,1,Always,Yes,Occasionally,No,Private Transportation,3,Yes,No formal education,Pass
+15,Female,SS3,87,Excellent,2,Frequently,Never,Yes,1,No,5,Frequently,No,Always,Yes,Walking,1,No,Secondary education,Fail
+18,Male,SS2,77,Good,5,Occasionally,Frequently,No,3,Yes,4,Frequently,Yes,Always,Yes,Walking,4,Yes,Tertiary education,Pass
+18,Male,SS2,56,Pass,2,Always,Occasionally,No,2,No,3,Frequently,Yes,Always,No,Walking,1,Yes,Tertiary education,Fail
+16,Male,SS3,43,Fail,1,Occasionally,Always,No,3,No,5,Always,No,Occasionally,No,Public Transportation,4,No,Tertiary education,Fail
+15,Female,SS3,53,Pass,4,Never,Always,No,5,Yes,1,Frequently,No,Never,No,Walking,5,Yes,Tertiary education,Pass
+18,Male,SS1,57,Pass,2,Frequently,Occasionally,Yes,2,No,1,Never,No,Never,Yes,Private Transportation,5,Yes,Primary education,Fail
+16,Female,SS1,85,Excellent,1,Occasionally,Always,No,5,No,2,Always,No,Frequently,No,Walking,1,No,Primary education,Fail
+15,Male,SS2,97,Excellent,4,Frequently,Always,No,4,Yes,4,Never,Yes,Frequently,Yes,School Bus,3,No,No formal education,Pass
+18,Male,SS3,74,Good,1,Occasionally,Frequently,No,5,Yes,4,Occasionally,No,Always,No,Public Transportation,5,Yes,Tertiary education,Fail
+15,Male,SS3,89,Excellent,4,Never,Occasionally,Yes,2,No,2,Never,Yes,Frequently,Yes,Public Transportation,5,No,Primary education,Fail
+17,Female,SS2,44,Fail,5,Never,Never,Yes,3,Yes,4,Always,Yes,Occasionally,Yes,Public Transportation,3,Yes,Tertiary education,Fail
+15,Female,SS2,58,Pass,3,Frequently,Occasionally,No,1,Yes,5,Always,No,Always,Yes,School Bus,2,Yes,Tertiary education,Fail
+18,Female,SS2,47,Fail,2,Frequently,Occasionally,Yes,2,No,1,Frequently,Yes,Occasionally,No,Private Transportation,1,No,No formal education,Fail
+17,Female,SS3,82,Excellent,3,Frequently,Never,No,4,No,5,Occasionally,No,Never,No,Public Transportation,4,Yes,Secondary education,Pass
+18,Male,SS1,79,Good,3,Never,Never,No,3,Yes,1,Never,Yes,Always,No,Walking,3,No,No formal education,Pass
+15,Male,SS1,68,Average,4,Always,Never,Yes,4,Yes,3,Always,Yes,Occasionally,No,Private Transportation,5,No,Primary education,Pass
+17,Female,SS3,91,Excellent,1,Occasionally,Always,Yes,5,No,3,Never,No,Frequently,No,Walking,1,No,Primary education,Fail
+15,Female,SS2,60,Average,1,Never,Always,No,2,Yes,2,Frequently,No,Occasionally,No,School Bus,4,No,Primary education,Fail
+16,Female,SS1,75,Good,2,Always,Always,Yes,1,No,5,Never,No,Occasionally,No,Private Transportation,3,No,Tertiary education,Fail
+18,Male,SS3,56,Pass,5,Frequently,Always,No,5,Yes,1,Occasionally,No,Never,Yes,Private Transportation,5,No,Primary education,Pass
+16,Female,SS1,100,Excellent,3,Occasionally,Never,No,3,No,1,Always,No,Never,No,School Bus,1,No,Tertiary education,Pass
+15,Male,SS2,56,Pass,4,Frequently,Always,Yes,1,No,3,Occasionally,Yes,Always,No,Walking,2,Yes,Secondary education,Fail
+16,Male,SS3,66,Average,4,Occasionally,Never,No,5,No,4,Never,No,Frequently,Yes,Public Transportation,3,No,Tertiary education,Pass
+16,Male,SS2,56,Pass,4,Always,Always,No,4,No,1,Frequently,No,Occasionally,Yes,Public Transportation,1,Yes,Primary education,Pass
+17,Female,SS1,57,Pass,3,Frequently,Occasionally,No,4,No,5,Frequently,Yes,Occasionally,Yes,Private Transportation,3,No,Primary education,Pass
+18,Male,SS1,68,Average,4,Occasionally,Never,Yes,1,No,5,Always,Yes,Occasionally,Yes,Walking,3,Yes,Tertiary education,Fail
+15,Female,SS1,56,Pass,2,Frequently,Always,No,2,Yes,1,Frequently,No,Never,Yes,Walking,2,Yes,No formal education,Fail
+15,Male,SS2,94,Excellent,3,Always,Frequently,No,4,Yes,1,Frequently,No,Never,No,Walking,4,Yes,No formal education,Pass
+17,Female,SS2,73,Good,5,Occasionally,Frequently,No,5,No,5,Always,Yes,Occasionally,Yes,School Bus,2,No,No formal education,Pass
+18,Male,SS2,85,Excellent,5,Frequently,Always,No,3,No,3,Occasionally,No,Frequently,Yes,Public Transportation,5,Yes,Secondary education,Pass
+17,Female,SS3,94,Excellent,1,Never,Never,No,1,Yes,1,Frequently,Yes,Frequently,No,Private Transportation,3,Yes,Tertiary education,Fail
+17,Female,SS3,64,Average,1,Frequently,Always,Yes,3,Yes,2,Never,No,Always,Yes,Private Transportation,1,Yes,Tertiary education,Fail
+15,Male,SS2,69,Average,4,Occasionally,Occasionally,No,5,No,3,Frequently,Yes,Always,No,Private Transportation,5,No,Secondary education,Pass
+17,Male,SS2,45,Fail,5,Always,Frequently,Yes,3,Yes,1,Never,No,Never,No,Public Transportation,2,Yes,Secondary education,Fail
+16,Female,SS2,93,Excellent,1,Occasionally,Never,No,4,No,1,Occasionally,Yes,Always,No,School Bus,3,Yes,Primary education,Fail
+16,Male,SS3,59,Pass,5,Frequently,Occasionally,Yes,2,Yes,3,Occasionally,No,Never,Yes,Private Transportation,4,Yes,Tertiary education,Fail
+18,Male,SS3,75,Good,5,Always,Never,Yes,3,No,4,Always,Yes,Frequently,No,School Bus,5,No,Secondary education,Pass
+18,Female,SS1,60,Average,2,Occasionally,Always,Yes,3,Yes,4,Always,No,Never,No,Public Transportation,3,Yes,Secondary education,Pass
+17,Male,SS2,76,Good,5,Frequently,Frequently,Yes,4,Yes,2,Occasionally,Yes,Never,Yes,Walking,4,Yes,Secondary education,Pass
+15,Male,SS2,50,Pass,2,Always,Occasionally,No,4,Yes,5,Always,Yes,Frequently,No,School Bus,3,No,No formal education,Pass
+15,Female,SS2,73,Good,1,Frequently,Frequently,No,4,Yes,3,Frequently,No,Never,No,Public Transportation,2,No,Tertiary education,Fail
+15,Male,SS2,79,Good,4,Always,Occasionally,Yes,4,Yes,5,Never,Yes,Occasionally,Yes,School Bus,5,No,Primary education,Pass
+16,Female,SS1,76,Good,4,Always,Never,Yes,2,Yes,2,Never,Yes,Occasionally,Yes,Private Transportation,2,No,Primary education,Fail
+18,Male,SS2,70,Good,1,Occasionally,Frequently,No,4,Yes,5,Always,No,Never,Yes,Public Transportation,2,No,Tertiary education,Fail
+15,Male,SS2,41,Fail,2,Occasionally,Occasionally,Yes,4,No,5,Occasionally,No,Never,No,Private Transportation,4,Yes,Tertiary education,Fail
+16,Male,SS3,90,Excellent,5,Always,Frequently,Yes,4,Yes,5,Frequently,Yes,Occasionally,No,Private Transportation,4,Yes,Secondary education,Pass
+16,Male,SS3,48,Fail,3,Occasionally,Frequently,Yes,3,No,2,Always,No,Frequently,No,Walking,1,No,No formal education,Fail
+15,Female,SS1,45,Fail,2,Frequently,Always,No,5,Yes,1,Always,No,Frequently,No,Walking,5,No,No formal education,Fail
+17,Female,SS2,62,Average,1,Occasionally,Never,No,1,No,5,Always,Yes,Frequently,No,Public Transportation,3,Yes,Tertiary education,Fail
+18,Male,SS1,77,Good,3,Frequently,Never,Yes,4,Yes,5,Never,No,Never,Yes,Walking,2,Yes,Primary education,Pass
+16,Female,SS1,74,Good,4,Occasionally,Frequently,No,1,Yes,4,Always,Yes,Occasionally,No,School Bus,3,No,Tertiary education,Fail
+16,Female,SS1,99,Excellent,2,Occasionally,Frequently,No,5,Yes,4,Always,No,Frequently,No,Walking,3,Yes,Primary education,Pass
+15,Male,SS3,71,Good,5,Frequently,Frequently,No,4,No,5,Always,Yes,Occasionally,No,Private Transportation,1,No,Tertiary education,Pass
+18,Male,SS3,95,Excellent,2,Always,Always,Yes,2,No,3,Always,No,Never,No,Public Transportation,2,No,Tertiary education,Fail
+18,Male,SS3,95,Excellent,3,Always,Occasionally,No,1,Yes,3,Always,Yes,Frequently,Yes,Public Transportation,2,No,No formal education,Fail
+16,Male,SS3,43,Fail,2,Occasionally,Frequently,Yes,4,Yes,2,Occasionally,Yes,Never,Yes,Walking,4,Yes,Tertiary education,Fail
+16,Female,SS3,44,Fail,3,Never,Never,Yes,1,No,3,Frequently,No,Frequently,Yes,Walking,5,No,No formal education,Fail
+18,Male,SS1,92,Excellent,1,Always,Never,No,4,No,3,Occasionally,Yes,Frequently,Yes,Private Transportation,4,Yes,No formal education,Fail
+18,Male,SS2,55,Pass,4,Occasionally,Occasionally,Yes,5,Yes,2,Frequently,No,Occasionally,Yes,Private Transportation,3,No,Primary education,Pass
+15,Male,SS2,58,Pass,3,Always,Never,No,3,Yes,3,Frequently,No,Never,No,Public Transportation,1,Yes,Primary education,Pass
+16,Female,SS3,65,Average,1,Frequently,Frequently,Yes,3,Yes,5,Occasionally,No,Occasionally,Yes,School Bus,5,Yes,No formal education,Fail
+18,Male,SS3,66,Average,5,Frequently,Never,No,5,Yes,3,Occasionally,Yes,Frequently,Yes,School Bus,2,No,No formal education,Pass
+18,Male,SS1,60,Average,3,Frequently,Frequently,Yes,5,No,5,Occasionally,No,Never,Yes,Private Transportation,4,No,No formal education,Pass
+15,Male,SS1,59,Pass,5,Always,Always,Yes,4,Yes,5,Frequently,No,Frequently,No,Private Transportation,4,Yes,Tertiary education,Pass
+16,Female,SS1,99,Excellent,4,Frequently,Always,No,3,No,1,Never,Yes,Frequently,Yes,Private Transportation,5,No,Tertiary education,Pass
+15,Female,SS1,50,Pass,3,Never,Never,No,5,No,3,Always,Yes,Occasionally,Yes,Walking,2,No,Secondary education,Pass
+16,Male,SS3,85,Excellent,3,Always,Never,No,2,Yes,2,Occasionally,No,Frequently,No,School Bus,5,Yes,No formal education,Fail
+17,Male,SS1,88,Excellent,5,Always,Occasionally,Yes,5,Yes,2,Never,Yes,Never,Yes,Public Transportation,2,No,No formal education,Pass
+17,Female,SS3,59,Pass,4,Frequently,Always,No,3,Yes,1,Always,No,Always,Yes,Private Transportation,2,No,Secondary education,Pass
+15,Female,SS2,75,Good,4,Frequently,Never,Yes,4,Yes,4,Always,No,Never,Yes,Public Transportation,2,Yes,Tertiary education,Pass
+15,Male,SS1,61,Average,2,Always,Frequently,No,2,No,4,Occasionally,Yes,Never,Yes,Walking,3,Yes,Primary education,Fail
+15,Male,SS3,58,Pass,1,Occasionally,Never,No,5,No,4,Frequently,No,Never,Yes,Walking,1,Yes,No formal education,Fail
+18,Female,SS2,51,Pass,5,Frequently,Always,No,1,No,4,Frequently,Yes,Occasionally,Yes,Private Transportation,3,Yes,No formal education,Fail
+17,Male,SS3,97,Excellent,2,Never,Frequently,Yes,5,Yes,4,Always,Yes,Never,Yes,Public Transportation,1,No,Tertiary education,Pass
+15,Male,SS2,47,Fail,2,Frequently,Occasionally,Yes,3,Yes,1,Frequently,No,Never,Yes,Private Transportation,4,Yes,Tertiary education,Fail
+16,Female,SS3,73,Good,4,Frequently,Never,No,1,No,4,Occasionally,Yes,Never,No,Private Transportation,5,Yes,Secondary education,Fail
+16,Female,SS2,43,Fail,5,Occasionally,Always,No,4,Yes,2,Always,No,Never,Yes,School Bus,5,No,Tertiary education,Fail
+15,Male,SS3,63,Average,4,Frequently,Never,No,1,No,3,Always,Yes,Always,No,Public Transportation,4,Yes,Primary education,Fail
+18,Female,SS1,79,Good,5,Occasionally,Never,Yes,2,No,5,Never,Yes,Occasionally,No,Public Transportation,5,Yes,No formal education,Fail
+16,Male,SS1,64,Average,1,Occasionally,Frequently,Yes,2,No,5,Always,Yes,Never,Yes,School Bus,3,Yes,Tertiary education,Fail
+17,Female,SS1,47,Fail,5,Frequently,Occasionally,Yes,1,Yes,4,Always,No,Frequently,Yes,Walking,3,No,Primary education,Fail
+18,Female,SS3,58,Pass,5,Occasionally,Always,No,1,No,5,Occasionally,Yes,Occasionally,No,Private Transportation,5,Yes,Tertiary education,Fail
+17,Female,SS3,97,Excellent,3,Always,Frequently,Yes,4,Yes,3,Frequently,Yes,Occasionally,Yes,School Bus,2,No,Tertiary education,Pass
+18,Male,SS3,65,Average,1,Never,Frequently,Yes,4,Yes,5,Frequently,No,Never,No,Private Transportation,5,No,Primary education,Fail
+17,Male,SS3,69,Average,1,Occasionally,Never,Yes,5,No,2,Frequently,Yes,Always,No,Public Transportation,4,Yes,Secondary education,Fail
+16,Female,SS2,82,Excellent,2,Frequently,Frequently,Yes,1,Yes,1,Occasionally,Yes,Frequently,Yes,School Bus,1,No,Tertiary education,Fail
+16,Female,SS3,87,Excellent,2,Frequently,Never,Yes,5,Yes,2,Frequently,Yes,Always,No,Walking,3,No,No formal education,Pass
+17,Male,SS1,45,Fail,5,Occasionally,Occasionally,No,3,No,2,Occasionally,No,Always,No,School Bus,5,No,No formal education,Fail
+18,Female,SS1,67,Average,2,Never,Frequently,Yes,4,No,3,Occasionally,Yes,Always,No,Walking,3,Yes,Primary education,Pass
+18,Female,SS2,78,Good,5,Always,Occasionally,No,5,No,3,Frequently,Yes,Always,No,School Bus,5,Yes,No formal education,Pass
+18,Male,SS3,50,Pass,4,Occasionally,Frequently,No,3,Yes,4,Occasionally,Yes,Always,No,Walking,2,Yes,Secondary education,Pass
+16,Male,SS1,92,Excellent,3,Occasionally,Never,No,2,Yes,3,Never,No,Always,Yes,School Bus,3,No,Tertiary education,Fail
+17,Female,SS2,51,Pass,1,Always,Always,Yes,3,No,2,Always,Yes,Frequently,Yes,Public Transportation,2,Yes,No formal education,Fail
+18,Male,SS2,83,Excellent,2,Always,Occasionally,Yes,4,Yes,1,Occasionally,No,Always,Yes,Public Transportation,1,No,No formal education,Pass
+15,Male,SS3,88,Excellent,2,Occasionally,Always,Yes,3,Yes,2,Frequently,Yes,Never,Yes,Public Transportation,4,No,Primary education,Pass
+17,Male,SS2,59,Pass,3,Always,Always,Yes,4,Yes,5,Frequently,Yes,Always,Yes,Public Transportation,4,Yes,No formal education,Pass
+18,Male,SS3,94,Excellent,3,Always,Frequently,No,4,No,3,Frequently,No,Occasionally,Yes,Private Transportation,2,Yes,No formal education,Pass
+18,Female,SS2,57,Pass,4,Always,Occasionally,No,4,Yes,1,Always,Yes,Never,Yes,Public Transportation,1,Yes,Secondary education,Pass
+18,Female,SS2,62,Average,4,Frequently,Never,No,5,No,1,Always,Yes,Always,Yes,Private Transportation,2,Yes,Tertiary education,Pass
+16,Female,SS1,76,Good,2,Frequently,Frequently,No,4,No,3,Occasionally,Yes,Never,No,School Bus,3,No,Primary education,Pass
+17,Female,SS3,76,Good,1,Occasionally,Frequently,Yes,4,No,3,Always,Yes,Never,Yes,School Bus,2,No,No formal education,Fail
+16,Male,SS3,95,Excellent,5,Always,Occasionally,No,4,No,4,Occasionally,No,Always,Yes,School Bus,2,No,No formal education,Pass
+17,Male,SS3,77,Good,2,Never,Never,No,3,No,1,Never,No,Always,No,Public Transportation,4,Yes,Primary education,Pass
+17,Male,SS1,45,Fail,1,Always,Never,No,1,Yes,2,Always,No,Always,Yes,School Bus,1,Yes,No formal education,Fail
+16,Female,SS1,65,Average,3,Frequently,Always,Yes,4,Yes,3,Frequently,No,Always,Yes,Walking,1,Yes,Tertiary education,Pass
+17,Male,SS3,100,Excellent,3,Frequently,Never,Yes,2,Yes,5,Frequently,No,Never,Yes,Walking,4,Yes,Secondary education,Fail
+15,Male,SS2,72,Good,5,Always,Never,Yes,4,No,3,Never,Yes,Always,Yes,Private Transportation,2,No,Primary education,Pass
+15,Female,SS1,62,Average,1,Occasionally,Occasionally,Yes,3,Yes,4,Always,No,Occasionally,No,Walking,5,No,Primary education,Fail
+15,Male,SS1,56,Pass,4,Always,Frequently,No,3,Yes,3,Never,Yes,Occasionally,No,Walking,4,Yes,Primary education,Pass
+17,Male,SS3,68,Average,2,Frequently,Occasionally,No,1,Yes,4,Occasionally,No,Occasionally,No,Private Transportation,5,Yes,Tertiary education,Fail
+16,Male,SS2,82,Excellent,2,Occasionally,Never,Yes,3,No,2,Never,Yes,Frequently,Yes,Public Transportation,5,Yes,Tertiary education,Pass
+17,Male,SS3,83,Excellent,5,Frequently,Frequently,Yes,3,Yes,2,Always,Yes,Occasionally,Yes,Private Transportation,5,Yes,Tertiary education,Pass
+18,Female,SS3,62,Average,3,Frequently,Frequently,Yes,2,Yes,1,Never,No,Frequently,No,Private Transportation,3,Yes,Tertiary education,Fail
+15,Female,SS2,53,Pass,5,Never,Frequently,Yes,1,No,4,Always,Yes,Occasionally,Yes,Walking,4,No,No formal education,Fail
+15,Female,SS1,47,Fail,5,Frequently,Frequently,No,3,No,4,Occasionally,No,Frequently,Yes,Walking,2,No,Secondary education,Fail
+16,Male,SS2,77,Good,4,Frequently,Never,No,2,Yes,5,Frequently,Yes,Frequently,Yes,Private Transportation,4,Yes,Primary education,Fail
+16,Male,SS3,59,Pass,5,Occasionally,Always,No,2,No,4,Always,No,Frequently,No,School Bus,5,Yes,Tertiary education,Fail
+17,Male,SS1,85,Excellent,5,Occasionally,Occasionally,No,1,No,4,Occasionally,Yes,Always,No,Public Transportation,3,No,No formal education,Fail
+18,Female,SS1,47,Fail,2,Never,Always,No,5,No,3,Frequently,No,Frequently,Yes,Public Transportation,4,Yes,No formal education,Fail
+18,Female,SS2,86,Excellent,5,Occasionally,Frequently,No,4,Yes,5,Never,No,Never,Yes,Public Transportation,5,Yes,Tertiary education,Pass
+18,Male,SS2,49,Fail,5,Never,Always,No,2,No,1,Always,No,Frequently,No,School Bus,2,Yes,Secondary education,Fail
+18,Male,SS2,65,Average,5,Always,Always,No,4,No,3,Always,Yes,Frequently,Yes,Public Transportation,1,Yes,Secondary education,Pass
+15,Male,SS2,92,Excellent,5,Never,Occasionally,No,4,Yes,3,Never,No,Always,No,Public Transportation,3,Yes,Tertiary education,Pass
+15,Male,SS2,94,Excellent,4,Never,Always,No,2,No,2,Never,Yes,Always,No,Walking,4,Yes,Primary education,Fail
+17,Female,SS3,80,Excellent,3,Occasionally,Always,No,2,Yes,4,Never,Yes,Occasionally,No,Walking,1,No,Primary education,Fail
+15,Male,SS2,78,Good,3,Never,Occasionally,Yes,2,Yes,2,Never,Yes,Always,No,School Bus,2,No,Primary education,Fail
+17,Male,SS3,74,Good,3,Frequently,Always,Yes,4,Yes,1,Always,Yes,Occasionally,No,Public Transportation,2,No,Primary education,Pass
+18,Female,SS1,78,Good,4,Never,Never,No,2,No,3,Always,Yes,Frequently,No,Public Transportation,1,No,Secondary education,Fail
+18,Female,SS2,62,Average,4,Occasionally,Never,No,4,Yes,4,Always,Yes,Frequently,Yes,School Bus,2,Yes,Tertiary education,Pass
+18,Male,SS3,72,Good,2,Frequently,Always,No,1,No,3,Occasionally,No,Occasionally,Yes,Public Transportation,1,No,No formal education,Fail
+18,Male,SS1,98,Excellent,1,Frequently,Frequently,Yes,5,Yes,3,Occasionally,Yes,Never,No,Private Transportation,2,No,Primary education,Fail
+15,Female,SS3,59,Pass,1,Always,Never,No,5,Yes,5,Frequently,Yes,Always,Yes,Private Transportation,3,No,Primary education,Fail
+17,Male,SS2,61,Average,3,Always,Never,Yes,1,Yes,2,Never,Yes,Occasionally,Yes,School Bus,5,No,Tertiary education,Fail
+15,Male,SS3,82,Excellent,1,Always,Frequently,No,3,No,4,Always,No,Never,Yes,School Bus,4,No,Tertiary education,Fail
+15,Male,SS1,82,Excellent,4,Frequently,Always,Yes,4,No,5,Occasionally,No,Frequently,Yes,School Bus,2,Yes,Secondary education,Pass
+16,Female,SS2,60,Average,4,Always,Frequently,Yes,4,Yes,4,Never,No,Always,Yes,Public Transportation,1,Yes,Primary education,Pass
+15,Male,SS2,74,Good,3,Never,Never,No,2,Yes,1,Occasionally,Yes,Always,No,Walking,3,Yes,Secondary education,Fail
+16,Female,SS3,77,Good,1,Frequently,Never,Yes,5,Yes,5,Never,No,Occasionally,No,School Bus,1,No,No formal education,Fail
+17,Male,SS3,49,Fail,3,Always,Always,Yes,5,No,2,Never,Yes,Always,No,School Bus,4,Yes,Secondary education,Fail
+17,Female,SS1,41,Fail,3,Always,Occasionally,Yes,1,Yes,1,Frequently,No,Frequently,No,Private Transportation,2,Yes,Primary education,Fail
+18,Male,SS2,44,Fail,1,Occasionally,Occasionally,No,1,No,3,Never,Yes,Always,No,School Bus,5,No,No formal education,Fail
+16,Male,SS3,56,Pass,4,Frequently,Occasionally,Yes,1,Yes,5,Occasionally,Yes,Frequently,Yes,Private Transportation,4,Yes,No formal education,Fail
+17,Female,SS3,76,Good,3,Occasionally,Occasionally,Yes,4,No,4,Frequently,Yes,Never,No,School Bus,2,No,Tertiary education,Pass
+17,Female,SS3,83,Excellent,4,Occasionally,Never,No,2,Yes,1,Always,No,Frequently,Yes,Private Transportation,1,Yes,Tertiary education,Fail
+17,Female,SS1,69,Average,4,Frequently,Never,Yes,3,Yes,4,Occasionally,Yes,Occasionally,Yes,School Bus,3,No,Primary education,Pass
+16,Male,SS1,59,Pass,1,Occasionally,Occasionally,Yes,5,Yes,4,Frequently,Yes,Occasionally,No,School Bus,5,Yes,Primary education,Fail
+17,Female,SS2,73,Good,3,Frequently,Always,No,5,Yes,3,Always,Yes,Frequently,No,Walking,5,No,Tertiary education,Pass
+17,Female,SS1,76,Good,3,Frequently,Always,Yes,5,Yes,2,Frequently,No,Always,Yes,Walking,2,No,Secondary education,Pass
+16,Female,SS3,56,Pass,3,Never,Never,No,4,No,2,Always,Yes,Never,Yes,School Bus,1,No,No formal education,Pass
+15,Male,SS2,54,Pass,4,Occasionally,Always,No,4,No,1,Never,Yes,Always,No,Public Transportation,3,No,Secondary education,Pass
+16,Male,SS1,61,Average,4,Occasionally,Frequently,Yes,2,No,1,Frequently,Yes,Occasionally,Yes,Walking,3,Yes,Secondary education,Fail
+16,Male,SS2,84,Excellent,3,Frequently,Never,No,5,No,2,Frequently,No,Occasionally,No,Public Transportation,3,Yes,Secondary education,Pass
+17,Male,SS3,69,Average,1,Never,Never,No,3,No,5,Always,Yes,Never,No,School Bus,4,No,No formal education,Fail
+15,Female,SS2,58,Pass,2,Frequently,Occasionally,No,5,No,3,Frequently,No,Frequently,No,School Bus,1,No,Secondary education,Pass
+18,Male,SS3,59,Pass,2,Never,Frequently,No,1,Yes,3,Always,No,Never,Yes,Private Transportation,2,No,Secondary education,Fail
+17,Female,SS2,51,Pass,3,Always,Occasionally,No,2,Yes,5,Always,No,Always,No,Private Transportation,3,Yes,Primary education,Fail
+17,Female,SS1,60,Average,1,Always,Occasionally,No,5,Yes,5,Always,Yes,Always,Yes,School Bus,2,No,Tertiary education,Fail
+16,Male,SS1,86,Excellent,4,Occasionally,Occasionally,No,5,Yes,2,Always,Yes,Never,Yes,Public Transportation,3,Yes,Primary education,Pass
+17,Male,SS1,41,Fail,3,Frequently,Always,Yes,3,Yes,2,Frequently,No,Never,Yes,Private Transportation,4,Yes,Tertiary education,Fail
+18,Male,SS3,45,Fail,3,Frequently,Frequently,Yes,2,Yes,1,Occasionally,No,Never,Yes,Walking,3,No,Secondary education,Fail
+15,Male,SS3,91,Excellent,2,Occasionally,Frequently,Yes,4,Yes,1,Always,No,Frequently,No,Public Transportation,1,Yes,No formal education,Pass
+18,Male,SS3,66,Average,2,Never,Always,Yes,3,Yes,2,Always,No,Always,No,Public Transportation,4,No,Secondary education,Pass
+15,Male,SS3,81,Excellent,5,Never,Never,Yes,5,No,1,Always,No,Frequently,No,Private Transportation,3,Yes,Primary education,Pass
+15,Female,SS1,93,Excellent,4,Occasionally,Always,Yes,5,No,4,Never,Yes,Occasionally,Yes,Walking,3,Yes,No formal education,Pass
+15,Female,SS1,72,Good,5,Frequently,Frequently,No,3,Yes,1,Frequently,Yes,Always,No,School Bus,1,No,Secondary education,Pass
+17,Male,SS3,52,Pass,4,Frequently,Always,No,2,No,3,Always,No,Always,No,Public Transportation,2,No,No formal education,Fail
+16,Female,SS1,69,Average,3,Occasionally,Never,No,1,No,1,Always,Yes,Frequently,Yes,Public Transportation,4,No,Tertiary education,Fail
+18,Male,SS3,92,Excellent,2,Always,Occasionally,Yes,4,No,3,Never,Yes,Always,Yes,Private Transportation,5,No,Tertiary education,Pass
+15,Female,SS3,52,Pass,4,Never,Never,Yes,2,No,2,Occasionally,No,Occasionally,Yes,Public Transportation,4,Yes,Secondary education,Fail
+17,Female,SS2,42,Fail,1,Occasionally,Occasionally,No,5,No,5,Always,No,Occasionally,Yes,School Bus,3,Yes,Primary education,Fail
+17,Male,SS2,79,Good,3,Occasionally,Always,No,5,Yes,2,Frequently,No,Occasionally,Yes,Walking,2,Yes,Tertiary education,Pass
+16,Male,SS2,47,Fail,3,Always,Always,Yes,4,No,1,Frequently,Yes,Occasionally,No,Walking,3,No,Secondary education,Fail
+16,Female,SS2,73,Good,1,Never,Occasionally,No,1,No,3,Never,Yes,Frequently,No,Private Transportation,3,Yes,Tertiary education,Fail
+15,Male,SS1,81,Excellent,4,Never,Always,No,3,No,5,Always,No,Frequently,No,Walking,3,Yes,Primary education,Pass
+18,Male,SS2,94,Excellent,2,Never,Always,Yes,5,No,5,Never,Yes,Frequently,Yes,Public Transportation,3,No,Secondary education,Pass
+18,Female,SS3,89,Excellent,1,Frequently,Frequently,No,3,No,2,Frequently,Yes,Never,No,School Bus,4,No,Secondary education,Fail
+18,Female,SS2,43,Fail,5,Never,Never,Yes,5,No,1,Occasionally,Yes,Always,Yes,Public Transportation,1,Yes,Secondary education,Fail
+17,Female,SS3,79,Good,2,Always,Occasionally,Yes,1,No,3,Frequently,No,Occasionally,Yes,Private Transportation,2,Yes,No formal education,Fail
+16,Male,SS2,45,Fail,1,Always,Never,No,1,No,1,Frequently,No,Occasionally,Yes,Private Transportation,4,No,Primary education,Fail
+15,Male,SS1,62,Average,1,Frequently,Never,Yes,2,No,3,Never,No,Never,Yes,Private Transportation,3,Yes,Secondary education,Fail
+17,Female,SS3,88,Excellent,1,Frequently,Frequently,Yes,2,Yes,1,Always,No,Frequently,No,Private Transportation,2,Yes,Secondary education,Fail
+17,Female,SS3,59,Pass,4,Frequently,Always,No,2,Yes,4,Never,No,Frequently,No,Public Transportation,3,No,No formal education,Fail
+15,Female,SS2,71,Good,3,Occasionally,Never,Yes,2,Yes,1,Always,No,Always,No,Walking,4,No,No formal education,Fail
+16,Male,SS2,93,Excellent,2,Occasionally,Occasionally,No,1,No,2,Never,No,Frequently,Yes,School Bus,3,Yes,Primary education,Fail
+17,Female,SS3,69,Average,3,Always,Occasionally,No,4,Yes,3,Never,No,Always,No,School Bus,1,No,Tertiary education,Pass
+18,Male,SS2,53,Pass,2,Always,Always,Yes,2,Yes,2,Never,Yes,Occasionally,No,Private Transportation,5,No,No formal education,Fail
+17,Female,SS3,72,Good,2,Always,Never,No,4,Yes,1,Frequently,No,Occasionally,Yes,Private Transportation,2,Yes,No formal education,Pass
+18,Female,SS3,91,Excellent,3,Always,Always,Yes,1,No,2,Never,Yes,Never,Yes,Walking,1,Yes,Tertiary education,Fail
+18,Male,SS3,55,Pass,1,Always,Occasionally,No,3,No,4,Always,Yes,Always,Yes,School Bus,2,Yes,Tertiary education,Fail
+17,Female,SS3,47,Fail,4,Frequently,Always,Yes,5,No,5,Frequently,Yes,Never,No,Walking,5,Yes,Secondary education,Fail
+15,Female,SS3,100,Excellent,2,Occasionally,Never,No,5,Yes,3,Never,Yes,Never,Yes,Walking,4,No,No formal education,Pass
+18,Female,SS1,48,Fail,3,Never,Occasionally,Yes,4,Yes,3,Never,Yes,Always,No,Public Transportation,2,No,Primary education,Fail
+15,Female,SS1,94,Excellent,2,Occasionally,Always,Yes,1,Yes,3,Always,No,Always,Yes,Private Transportation,3,Yes,Tertiary education,Fail
+17,Female,SS2,64,Average,5,Occasionally,Never,Yes,5,No,1,Occasionally,Yes,Never,No,Walking,3,No,Tertiary education,Pass
+15,Male,SS3,44,Fail,4,Frequently,Always,Yes,2,Yes,3,Occasionally,No,Occasionally,No,School Bus,3,No,No formal education,Fail
+18,Female,SS1,73,Good,5,Occasionally,Never,Yes,4,Yes,4,Frequently,Yes,Frequently,Yes,School Bus,5,Yes,Tertiary education,Pass
+15,Female,SS3,40,Fail,4,Occasionally,Always,No,2,Yes,3,Frequently,Yes,Frequently,No,School Bus,2,Yes,Secondary education,Fail
+18,Male,SS1,94,Excellent,4,Never,Always,No,3,No,4,Always,No,Never,No,School Bus,1,Yes,Primary education,Pass
+17,Male,SS2,85,Excellent,2,Never,Never,No,3,Yes,2,Never,Yes,Never,Yes,Private Transportation,2,No,Primary education,Pass
+18,Male,SS3,59,Pass,2,Never,Never,No,2,No,5,Never,Yes,Frequently,No,School Bus,2,Yes,No formal education,Fail
+15,Female,SS2,97,Excellent,4,Always,Always,Yes,1,No,4,Frequently,Yes,Never,No,Public Transportation,5,Yes,Primary education,Fail
+18,Male,SS3,91,Excellent,5,Frequently,Never,Yes,2,No,4,Frequently,No,Always,No,Public Transportation,2,No,Primary education,Fail
+17,Female,SS1,84,Excellent,5,Never,Never,Yes,3,Yes,4,Occasionally,Yes,Always,Yes,Private Transportation,2,No,Primary education,Pass
+17,Female,SS3,46,Fail,2,Occasionally,Never,Yes,3,Yes,4,Frequently,Yes,Frequently,Yes,School Bus,2,No,Secondary education,Fail
+16,Female,SS1,43,Fail,1,Always,Always,No,4,No,5,Never,No,Never,No,Walking,4,Yes,Primary education,Fail
+16,Female,SS3,46,Fail,2,Never,Never,No,5,Yes,4,Occasionally,Yes,Frequently,No,Private Transportation,2,Yes,Secondary education,Fail
+18,Male,SS2,60,Average,3,Never,Occasionally,Yes,5,Yes,3,Frequently,Yes,Occasionally,Yes,Public Transportation,3,No,Tertiary education,Pass
+16,Male,SS2,92,Excellent,3,Always,Never,Yes,2,No,4,Occasionally,Yes,Frequently,Yes,School Bus,4,No,No formal education,Fail
+15,Female,SS1,93,Excellent,1,Always,Always,No,1,No,4,Always,No,Always,No,School Bus,4,Yes,Tertiary education,Fail
+18,Female,SS2,49,Fail,5,Always,Never,Yes,2,No,5,Always,No,Occasionally,No,Private Transportation,4,Yes,Tertiary education,Fail
+17,Female,SS3,92,Excellent,1,Always,Always,Yes,3,Yes,4,Occasionally,Yes,Frequently,Yes,Public Transportation,4,No,Primary education,Fail
+16,Male,SS2,92,Excellent,3,Never,Never,No,5,Yes,4,Frequently,No,Frequently,No,Private Transportation,1,Yes,Tertiary education,Pass
+15,Female,SS2,96,Excellent,3,Frequently,Frequently,No,2,No,3,Frequently,Yes,Never,No,Walking,2,No,Primary education,Fail
+18,Male,SS3,72,Good,4,Never,Never,Yes,3,No,3,Frequently,Yes,Frequently,No,School Bus,2,Yes,Secondary education,Pass
+15,Female,SS1,98,Excellent,1,Always,Occasionally,Yes,3,Yes,3,Always,No,Occasionally,No,School Bus,3,No,Primary education,Fail
+18,Male,SS3,84,Excellent,4,Always,Never,No,2,No,1,Always,No,Never,No,School Bus,4,Yes,Secondary education,Fail
+15,Female,SS1,46,Fail,1,Occasionally,Always,No,4,Yes,1,Always,Yes,Always,No,School Bus,3,Yes,Secondary education,Fail
+17,Female,SS2,66,Average,5,Frequently,Always,Yes,1,No,3,Always,No,Occasionally,Yes,School Bus,3,No,Tertiary education,Fail
+16,Female,SS2,80,Excellent,5,Frequently,Frequently,No,2,No,1,Never,No,Never,Yes,Walking,2,Yes,No formal education,Fail
+18,Male,SS2,57,Pass,4,Never,Frequently,Yes,5,Yes,2,Occasionally,No,Never,No,Private Transportation,3,No,No formal education,Pass
+15,Male,SS1,55,Pass,3,Occasionally,Occasionally,Yes,1,No,5,Frequently,No,Always,Yes,School Bus,2,No,No formal education,Fail
+16,Male,SS2,59,Pass,1,Frequently,Never,No,3,No,3,Occasionally,Yes,Occasionally,No,Private Transportation,4,No,No formal education,Fail
+17,Female,SS3,42,Fail,3,Occasionally,Always,No,2,No,2,Never,No,Occasionally,No,School Bus,2,No,No formal education,Fail
+16,Female,SS2,55,Pass,2,Always,Frequently,No,5,Yes,3,Occasionally,Yes,Occasionally,No,Walking,2,Yes,No formal education,Pass
+17,Male,SS3,67,Average,2,Occasionally,Frequently,Yes,5,No,5,Always,No,Never,No,Public Transportation,4,No,No formal education,Pass
+18,Female,SS2,89,Excellent,2,Never,Occasionally,Yes,5,No,1,Always,No,Occasionally,No,Private Transportation,1,Yes,Tertiary education,Pass
+18,Male,SS2,79,Good,2,Always,Never,No,2,No,5,Frequently,No,Always,Yes,Public Transportation,2,Yes,Primary education,Fail
+16,Female,SS2,87,Excellent,2,Never,Occasionally,Yes,4,No,4,Always,No,Frequently,No,Private Transportation,2,Yes,No formal education,Pass
+15,Male,SS2,60,Average,5,Frequently,Occasionally,No,2,Yes,2,Frequently,No,Never,Yes,School Bus,2,No,Secondary education,Fail
+18,Female,SS2,55,Pass,3,Never,Frequently,No,3,No,5,Occasionally,Yes,Occasionally,No,Private Transportation,5,Yes,No formal education,Pass
+17,Male,SS2,57,Pass,3,Always,Occasionally,No,5,Yes,3,Frequently,Yes,Frequently,No,Public Transportation,4,No,Secondary education,Pass
+16,Male,SS3,91,Excellent,1,Occasionally,Occasionally,No,3,No,2,Always,No,Never,No,Walking,4,Yes,Secondary education,Fail
+17,Female,SS1,76,Good,3,Never,Frequently,Yes,5,No,1,Always,No,Always,No,Private Transportation,2,Yes,Tertiary education,Pass
+16,Male,SS2,93,Excellent,2,Frequently,Occasionally,No,2,No,2,Never,No,Occasionally,No,Public Transportation,2,Yes,Secondary education,Fail
+17,Female,SS1,45,Fail,1,Frequently,Always,No,5,Yes,1,Occasionally,Yes,Always,Yes,Public Transportation,5,No,Primary education,Fail
+17,Female,SS1,54,Pass,4,Occasionally,Never,No,4,Yes,4,Never,Yes,Occasionally,Yes,Private Transportation,1,Yes,Secondary education,Pass
+17,Female,SS3,61,Average,3,Frequently,Frequently,Yes,3,Yes,2,Always,Yes,Frequently,Yes,Public Transportation,2,No,Tertiary education,Pass
+17,Male,SS2,40,Fail,1,Always,Never,No,3,No,2,Frequently,No,Occasionally,No,School Bus,1,Yes,No formal education,Fail
+15,Female,SS1,46,Fail,4,Occasionally,Occasionally,Yes,2,No,3,Never,No,Always,No,School Bus,2,No,Tertiary education,Fail
+16,Male,SS3,46,Fail,4,Never,Always,No,3,Yes,1,Always,No,Never,No,Public Transportation,5,No,No formal education,Fail
+16,Female,SS3,96,Excellent,2,Occasionally,Frequently,Yes,1,No,2,Occasionally,Yes,Never,No,Public Transportation,3,No,Tertiary education,Fail
+18,Male,SS2,96,Excellent,1,Frequently,Never,Yes,2,No,2,Always,Yes,Never,No,School Bus,2,No,Tertiary education,Fail
+16,Male,SS1,100,Excellent,1,Never,Occasionally,No,4,Yes,1,Never,Yes,Never,No,Walking,3,Yes,Tertiary education,Fail
+18,Male,SS1,40,Fail,4,Always,Never,Yes,2,No,1,Always,Yes,Frequently,No,Private Transportation,2,No,Secondary education,Fail
+17,Female,SS2,95,Excellent,2,Occasionally,Frequently,Yes,5,No,5,Frequently,Yes,Frequently,Yes,Private Transportation,4,Yes,Primary education,Pass
+17,Male,SS2,88,Excellent,2,Always,Occasionally,Yes,5,Yes,2,Always,Yes,Always,No,Walking,2,Yes,Tertiary education,Pass
+15,Male,SS3,50,Pass,3,Frequently,Never,No,2,Yes,1,Occasionally,Yes,Always,No,Public Transportation,5,No,Primary education,Fail
+16,Male,SS1,40,Fail,4,Always,Occasionally,No,1,No,5,Occasionally,No,Occasionally,No,Walking,4,Yes,Primary education,Fail
+16,Male,SS2,46,Fail,2,Never,Never,Yes,2,No,5,Always,Yes,Never,No,School Bus,3,No,Primary education,Fail
+17,Female,SS1,42,Fail,2,Always,Always,Yes,5,No,5,Never,Yes,Occasionally,No,School Bus,4,No,Secondary education,Fail
+18,Male,SS3,51,Pass,1,Occasionally,Always,No,5,No,2,Always,Yes,Frequently,Yes,School Bus,4,No,Tertiary education,Fail
+18,Female,SS1,92,Excellent,4,Always,Occasionally,Yes,2,No,5,Occasionally,No,Always,Yes,Public Transportation,2,Yes,Primary education,Fail
+17,Male,SS3,100,Excellent,2,Occasionally,Frequently,Yes,4,No,4,Always,Yes,Always,Yes,School Bus,3,Yes,Primary education,Pass
+16,Male,SS1,62,Average,4,Occasionally,Never,Yes,1,No,4,Frequently,Yes,Never,Yes,School Bus,3,No,Primary education,Fail
+15,Male,SS2,94,Excellent,5,Never,Always,No,3,Yes,5,Frequently,Yes,Occasionally,Yes,Public Transportation,4,Yes,No formal education,Pass
+18,Male,SS3,42,Fail,3,Occasionally,Never,No,3,No,2,Never,Yes,Occasionally,No,School Bus,4,Yes,No formal education,Fail
+16,Male,SS2,82,Excellent,3,Occasionally,Frequently,No,3,No,3,Frequently,Yes,Occasionally,Yes,Walking,1,No,Tertiary education,Pass
+17,Male,SS3,48,Fail,2,Always,Occasionally,Yes,5,Yes,2,Frequently,Yes,Occasionally,Yes,Private Transportation,1,No,Tertiary education,Fail
+15,Female,SS2,61,Average,1,Frequently,Never,No,2,Yes,4,Occasionally,Yes,Frequently,Yes,School Bus,4,Yes,Tertiary education,Fail
+17,Female,SS2,57,Pass,2,Frequently,Occasionally,Yes,2,Yes,5,Always,No,Occasionally,Yes,Walking,5,Yes,Secondary education,Fail
+16,Male,SS2,61,Average,1,Always,Always,No,3,Yes,2,Frequently,No,Occasionally,No,School Bus,4,Yes,Secondary education,Fail
+18,Male,SS3,50,Pass,3,Frequently,Never,Yes,4,Yes,3,Occasionally,Yes,Never,Yes,School Bus,1,Yes,No formal education,Pass
+15,Female,SS1,77,Good,1,Never,Always,No,5,Yes,4,Never,Yes,Occasionally,No,Private Transportation,1,No,Primary education,Fail
+16,Female,SS2,78,Good,2,Frequently,Frequently,No,4,Yes,1,Frequently,Yes,Always,No,School Bus,1,No,Tertiary education,Pass
+15,Female,SS2,89,Excellent,3,Frequently,Occasionally,Yes,4,Yes,1,Occasionally,No,Always,Yes,Private Transportation,4,No,Tertiary education,Pass
+16,Male,SS2,95,Excellent,2,Never,Never,Yes,1,Yes,2,Never,No,Never,No,Public Transportation,5,No,Secondary education,Fail
+18,Female,SS1,62,Average,2,Always,Frequently,No,4,No,5,Occasionally,No,Always,No,Public Transportation,2,No,Primary education,Pass
+15,Male,SS3,84,Excellent,1,Never,Always,Yes,1,No,1,Always,Yes,Occasionally,No,Private Transportation,4,No,No formal education,Fail
+15,Female,SS2,43,Fail,3,Occasionally,Always,No,4,No,1,Never,No,Frequently,Yes,Walking,1,Yes,Primary education,Fail
+16,Male,SS3,67,Average,4,Always,Occasionally,No,3,No,3,Frequently,Yes,Frequently,Yes,School Bus,2,No,No formal education,Pass
+15,Female,SS1,94,Excellent,1,Occasionally,Occasionally,No,2,No,1,Frequently,No,Never,No,Public Transportation,5,No,Secondary education,Fail
+18,Female,SS2,74,Good,4,Always,Always,No,4,Yes,4,Never,Yes,Always,Yes,Public Transportation,1,Yes,Secondary education,Pass
+17,Female,SS1,84,Excellent,5,Never,Occasionally,Yes,5,No,4,Occasionally,No,Always,No,Private Transportation,2,Yes,Tertiary education,Pass
+15,Male,SS2,92,Excellent,5,Frequently,Occasionally,Yes,3,No,4,Occasionally,Yes,Always,Yes,Private Transportation,1,No,No formal education,Pass
+17,Male,SS1,89,Excellent,5,Occasionally,Occasionally,No,4,Yes,2,Frequently,Yes,Occasionally,Yes,Walking,1,No,No formal education,Pass
+15,Female,SS1,83,Excellent,1,Never,Never,No,2,No,1,Occasionally,Yes,Always,No,Walking,4,Yes,Tertiary education,Fail
+15,Female,SS1,77,Good,2,Never,Never,No,1,Yes,1,Occasionally,Yes,Never,No,School Bus,2,Yes,Primary education,Fail
+18,Male,SS3,41,Fail,2,Frequently,Occasionally,No,3,No,4,Always,No,Frequently,No,Private Transportation,3,No,Primary education,Fail
+15,Male,SS1,44,Fail,5,Occasionally,Occasionally,Yes,2,No,1,Frequently,Yes,Never,Yes,School Bus,4,No,Secondary education,Fail
+16,Female,SS1,57,Pass,5,Always,Always,Yes,1,Yes,1,Never,No,Frequently,Yes,Public Transportation,2,Yes,No formal education,Fail
+15,Female,SS3,52,Pass,4,Always,Frequently,Yes,1,Yes,2,Frequently,Yes,Occasionally,Yes,School Bus,1,Yes,Tertiary education,Fail
+17,Male,SS1,47,Fail,5,Never,Occasionally,Yes,5,No,2,Never,Yes,Occasionally,No,Public Transportation,4,No,Tertiary education,Fail
+16,Female,SS1,44,Fail,4,Always,Never,No,3,Yes,5,Never,No,Frequently,No,Walking,1,Yes,No formal education,Fail
+17,Male,SS3,60,Average,4,Occasionally,Frequently,Yes,5,No,2,Never,No,Never,No,Public Transportation,5,No,Secondary education,Pass
+17,Male,SS2,92,Excellent,2,Occasionally,Never,Yes,2,Yes,4,Always,Yes,Frequently,Yes,Private Transportation,1,Yes,Secondary education,Fail
+16,Male,SS3,80,Excellent,4,Always,Frequently,No,4,No,2,Never,No,Occasionally,Yes,Walking,4,No,No formal education,Pass
+18,Male,SS3,56,Pass,2,Frequently,Always,No,2,No,4,Occasionally,No,Frequently,Yes,Walking,3,No,Secondary education,Fail
+16,Male,SS2,51,Pass,3,Frequently,Frequently,No,2,Yes,4,Frequently,Yes,Always,No,School Bus,1,Yes,Primary education,Fail
+18,Male,SS3,55,Pass,5,Frequently,Never,Yes,2,Yes,3,Occasionally,Yes,Never,Yes,Public Transportation,1,Yes,No formal education,Fail
+15,Female,SS3,67,Average,3,Frequently,Never,Yes,3,Yes,4,Never,No,Occasionally,No,School Bus,4,No,No formal education,Pass
+17,Male,SS3,45,Fail,1,Never,Never,No,4,Yes,2,Never,No,Occasionally,No,Private Transportation,3,Yes,Primary education,Fail
+16,Female,SS1,91,Excellent,5,Frequently,Occasionally,No,1,Yes,3,Frequently,Yes,Never,No,Public Transportation,3,Yes,Primary education,Fail
+16,Female,SS3,52,Pass,4,Occasionally,Occasionally,No,2,No,2,Occasionally,No,Never,Yes,School Bus,2,No,Primary education,Fail
+17,Female,SS3,100,Excellent,3,Never,Always,Yes,2,Yes,4,Never,Yes,Occasionally,No,Private Transportation,1,No,No formal education,Fail
+18,Male,SS3,83,Excellent,4,Frequently,Frequently,No,4,Yes,4,Occasionally,Yes,Occasionally,Yes,School Bus,4,No,Primary education,Pass
+16,Female,SS1,91,Excellent,1,Never,Always,Yes,1,No,2,Never,Yes,Frequently,No,School Bus,2,No,No formal education,Fail
+16,Male,SS1,80,Excellent,5,Never,Occasionally,No,2,No,1,Frequently,Yes,Occasionally,Yes,Public Transportation,3,Yes,No formal education,Fail
+16,Female,SS3,92,Excellent,2,Always,Never,Yes,4,No,1,Never,Yes,Never,Yes,Walking,2,No,Tertiary education,Pass
+18,Male,SS1,61,Average,5,Occasionally,Always,Yes,5,Yes,5,Occasionally,No,Frequently,No,Private Transportation,1,No,Secondary education,Pass
+17,Male,SS1,42,Fail,5,Never,Never,No,3,Yes,3,Always,Yes,Always,No,School Bus,4,No,Primary education,Fail
+18,Female,SS3,69,Average,5,Frequently,Frequently,No,2,No,4,Always,Yes,Frequently,Yes,Private Transportation,4,No,Tertiary education,Fail
+17,Male,SS2,95,Excellent,5,Never,Always,Yes,1,No,1,Always,No,Always,Yes,Walking,5,No,No formal education,Fail
+16,Male,SS1,64,Average,4,Never,Always,No,5,Yes,3,Never,Yes,Frequently,No,Walking,1,No,No formal education,Pass
+15,Male,SS2,77,Good,5,Never,Frequently,No,2,No,5,Occasionally,Yes,Frequently,No,Public Transportation,3,Yes,Primary education,Fail
+15,Male,SS2,53,Pass,3,Occasionally,Never,No,2,Yes,4,Frequently,No,Occasionally,Yes,School Bus,2,No,Primary education,Fail
+18,Female,SS1,41,Fail,2,Always,Always,No,5,Yes,4,Frequently,No,Never,No,School Bus,2,Yes,No formal education,Fail
+15,Female,SS3,75,Good,2,Always,Always,Yes,3,Yes,2,Never,No,Always,No,School Bus,5,No,No formal education,Pass
+16,Male,SS1,65,Average,1,Never,Occasionally,Yes,4,No,5,Frequently,No,Occasionally,No,School Bus,1,No,Secondary education,Fail
+17,Male,SS1,49,Fail,4,Frequently,Never,Yes,5,Yes,4,Occasionally,No,Frequently,No,School Bus,1,No,Tertiary education,Fail
+15,Male,SS1,61,Average,4,Frequently,Frequently,Yes,1,Yes,4,Frequently,Yes,Never,No,School Bus,1,No,Primary education,Fail
+15,Female,SS2,88,Excellent,5,Never,Never,No,2,No,2,Frequently,Yes,Never,Yes,Public Transportation,5,No,Tertiary education,Fail
+17,Female,SS1,92,Excellent,2,Occasionally,Frequently,Yes,2,No,2,Never,Yes,Frequently,Yes,Walking,3,No,No formal education,Fail
+18,Male,SS2,46,Fail,5,Always,Always,No,4,No,1,Occasionally,No,Always,No,Public Transportation,5,No,No formal education,Fail
+16,Female,SS3,73,Good,3,Occasionally,Always,No,5,Yes,2,Frequently,No,Never,Yes,Public Transportation,5,Yes,Secondary education,Pass
+17,Male,SS3,45,Fail,1,Frequently,Frequently,Yes,2,No,1,Never,No,Occasionally,Yes,Walking,3,Yes,No formal education,Fail
+17,Female,SS1,47,Fail,3,Never,Occasionally,No,4,No,5,Occasionally,Yes,Frequently,No,School Bus,3,No,Secondary education,Fail
+16,Male,SS2,96,Excellent,2,Frequently,Frequently,Yes,4,Yes,1,Frequently,No,Occasionally,Yes,Walking,5,Yes,Primary education,Pass
+15,Female,SS1,52,Pass,4,Always,Occasionally,No,4,Yes,4,Never,No,Occasionally,Yes,Public Transportation,4,No,Primary education,Pass
+15,Female,SS1,50,Pass,1,Always,Always,Yes,3,No,4,Always,No,Frequently,Yes,School Bus,2,Yes,Secondary education,Fail
+17,Male,SS3,67,Average,4,Frequently,Frequently,No,5,No,4,Never,No,Never,Yes,Walking,1,Yes,Tertiary education,Pass
+16,Male,SS2,70,Good,4,Occasionally,Always,No,5,Yes,4,Always,Yes,Never,Yes,Private Transportation,5,Yes,Tertiary education,Pass
+16,Male,SS2,91,Excellent,5,Always,Frequently,Yes,2,No,2,Occasionally,Yes,Always,No,Walking,5,No,Primary education,Fail
+18,Female,SS3,70,Good,2,Never,Always,No,5,Yes,4,Occasionally,Yes,Frequently,Yes,Private Transportation,1,Yes,Tertiary education,Pass
+17,Male,SS3,62,Average,1,Frequently,Never,Yes,1,No,2,Always,No,Frequently,No,Public Transportation,2,No,No formal education,Fail
+18,Female,SS1,98,Excellent,3,Occasionally,Never,No,3,Yes,5,Occasionally,No,Never,No,Private Transportation,2,No,Tertiary education,Pass
+18,Female,SS2,74,Good,3,Never,Frequently,No,5,No,1,Never,Yes,Frequently,No,Walking,2,No,Tertiary education,Pass
+18,Male,SS2,48,Fail,4,Always,Occasionally,Yes,5,No,2,Always,Yes,Occasionally,No,Private Transportation,1,No,Primary education,Fail
+17,Male,SS1,82,Excellent,1,Never,Occasionally,No,2,No,5,Occasionally,No,Never,No,Walking,4,Yes,Tertiary education,Fail
+15,Male,SS2,94,Excellent,5,Frequently,Always,Yes,3,Yes,1,Frequently,No,Occasionally,No,Walking,3,Yes,Primary education,Pass
+16,Male,SS1,46,Fail,4,Occasionally,Occasionally,No,5,Yes,3,Frequently,No,Occasionally,Yes,Walking,4,Yes,Tertiary education,Fail
+15,Female,SS3,71,Good,2,Always,Never,Yes,4,No,4,Occasionally,Yes,Never,No,Public Transportation,1,No,Primary education,Pass
+15,Male,SS3,74,Good,4,Never,Frequently,Yes,5,No,2,Never,No,Occasionally,No,Walking,2,No,Primary education,Pass
+16,Male,SS2,59,Pass,2,Occasionally,Never,No,4,No,5,Occasionally,No,Never,Yes,Walking,4,No,Tertiary education,Pass
+15,Male,SS3,69,Average,3,Occasionally,Occasionally,Yes,4,No,4,Never,Yes,Occasionally,No,Public Transportation,5,No,No formal education,Pass
+15,Male,SS3,89,Excellent,2,Always,Occasionally,Yes,5,Yes,3,Frequently,Yes,Always,No,School Bus,4,No,Tertiary education,Pass
+15,Female,SS3,53,Pass,5,Always,Never,Yes,1,Yes,3,Never,No,Frequently,No,Private Transportation,1,Yes,Primary education,Fail
+15,Female,SS2,81,Excellent,1,Never,Occasionally,Yes,2,Yes,5,Frequently,No,Occasionally,Yes,Walking,3,Yes,No formal education,Fail
+15,Male,SS2,92,Excellent,2,Always,Occasionally,No,1,No,5,Occasionally,Yes,Never,No,Private Transportation,4,Yes,Secondary education,Fail
+18,Male,SS3,51,Pass,3,Always,Never,No,4,Yes,4,Frequently,No,Occasionally,Yes,Walking,3,Yes,Secondary education,Pass
+17,Female,SS2,85,Excellent,4,Occasionally,Never,Yes,3,Yes,5,Occasionally,No,Never,No,School Bus,5,Yes,Secondary education,Pass
+16,Female,SS2,43,Fail,4,Frequently,Always,Yes,5,No,3,Frequently,No,Always,Yes,School Bus,1,No,Primary education,Fail
+15,Female,SS2,67,Average,2,Occasionally,Never,No,2,No,2,Frequently,No,Occasionally,No,Private Transportation,2,Yes,Secondary education,Fail
+17,Female,SS1,65,Average,1,Occasionally,Never,No,4,Yes,1,Always,Yes,Never,Yes,Public Transportation,3,No,Secondary education,Fail
+17,Male,SS3,81,Excellent,4,Frequently,Occasionally,No,1,No,3,Occasionally,No,Occasionally,Yes,Walking,1,No,Secondary education,Fail
+16,Female,SS1,84,Excellent,5,Frequently,Frequently,Yes,3,No,2,Always,Yes,Occasionally,Yes,Private Transportation,5,No,Tertiary education,Pass
+16,Male,SS1,60,Average,1,Never,Never,No,4,Yes,3,Always,Yes,Occasionally,No,Private Transportation,4,No,Secondary education,Fail
+18,Female,SS2,81,Excellent,4,Occasionally,Never,Yes,3,Yes,4,Occasionally,No,Frequently,No,Walking,1,No,Tertiary education,Pass
+15,Female,SS2,49,Fail,4,Always,Never,No,5,No,1,Frequently,Yes,Frequently,No,Public Transportation,3,Yes,Tertiary education,Fail
+18,Female,SS3,75,Good,2,Frequently,Occasionally,Yes,3,Yes,2,Occasionally,No,Never,No,Private Transportation,3,No,Secondary education,Pass
+15,Female,SS1,89,Excellent,5,Always,Occasionally,No,4,Yes,1,Frequently,Yes,Always,No,Walking,1,Yes,Secondary education,Pass
+15,Female,SS2,86,Excellent,4,Never,Frequently,Yes,2,No,1,Always,No,Frequently,No,Public Transportation,5,Yes,Tertiary education,Fail
+16,Female,SS3,73,Good,5,Occasionally,Occasionally,Yes,5,No,1,Frequently,No,Never,Yes,Public Transportation,4,Yes,Tertiary education,Pass
+18,Female,SS3,43,Fail,5,Always,Frequently,Yes,2,No,1,Never,Yes,Never,No,Private Transportation,2,No,Tertiary education,Fail
+18,Male,SS1,74,Good,3,Always,Frequently,Yes,3,Yes,1,Frequently,Yes,Always,Yes,Walking,5,Yes,Secondary education,Pass
+17,Female,SS2,42,Fail,1,Occasionally,Frequently,No,3,No,2,Always,Yes,Occasionally,Yes,School Bus,5,No,No formal education,Fail
+16,Male,SS3,79,Good,5,Frequently,Always,Yes,4,No,2,Occasionally,No,Occasionally,Yes,Walking,4,No,No formal education,Pass
+17,Female,SS2,65,Average,5,Never,Occasionally,Yes,2,Yes,5,Occasionally,No,Always,No,Public Transportation,5,No,No formal education,Fail
+17,Male,SS1,54,Pass,4,Frequently,Never,No,4,Yes,5,Occasionally,No,Never,No,School Bus,2,Yes,Secondary education,Pass
+15,Female,SS1,80,Excellent,5,Always,Frequently,Yes,5,No,4,Occasionally,Yes,Always,No,Private Transportation,3,No,Primary education,Pass
+16,Female,SS2,94,Excellent,2,Never,Always,Yes,3,Yes,2,Always,No,Frequently,No,School Bus,1,Yes,Tertiary education,Pass
+16,Male,SS3,50,Pass,4,Occasionally,Always,No,4,Yes,1,Frequently,No,Never,No,Private Transportation,3,No,Secondary education,Pass
+17,Male,SS2,74,Good,1,Never,Occasionally,No,5,Yes,5,Always,No,Occasionally,No,Private Transportation,3,No,Tertiary education,Fail
+18,Male,SS1,93,Excellent,1,Always,Frequently,No,1,Yes,5,Never,Yes,Never,Yes,Walking,2,Yes,Secondary education,Fail
+15,Female,SS3,63,Average,5,Never,Never,Yes,2,No,4,Always,Yes,Always,No,Private Transportation,1,No,No formal education,Fail
+17,Female,SS1,45,Fail,4,Always,Always,No,2,No,3,Occasionally,Yes,Always,No,Public Transportation,3,No,Secondary education,Fail
+16,Female,SS2,48,Fail,3,Never,Never,Yes,2,No,1,Frequently,No,Frequently,No,Private Transportation,3,No,Tertiary education,Fail
+15,Male,SS2,42,Fail,4,Frequently,Occasionally,No,4,Yes,1,Occasionally,No,Frequently,Yes,Private Transportation,1,Yes,Primary education,Fail
+15,Female,SS3,95,Excellent,1,Occasionally,Never,Yes,4,Yes,1,Never,Yes,Occasionally,No,Public Transportation,2,No,Primary education,Fail
+17,Male,SS2,45,Fail,4,Never,Always,Yes,1,No,4,Never,Yes,Frequently,Yes,Private Transportation,2,Yes,No formal education,Fail
+16,Female,SS2,70,Good,2,Always,Frequently,No,3,No,5,Occasionally,No,Always,Yes,Public Transportation,2,No,Primary education,Pass
+15,Male,SS2,67,Average,5,Always,Frequently,No,3,No,3,Never,No,Never,No,Walking,3,No,Primary education,Pass
+16,Female,SS1,47,Fail,4,Frequently,Never,No,5,Yes,1,Occasionally,No,Frequently,Yes,Public Transportation,2,No,No formal education,Fail
+18,Female,SS3,40,Fail,4,Occasionally,Occasionally,Yes,5,Yes,1,Frequently,Yes,Frequently,Yes,Private Transportation,4,No,No formal education,Fail
+16,Male,SS1,66,Average,4,Occasionally,Frequently,Yes,2,No,4,Always,Yes,Always,Yes,Public Transportation,1,Yes,No formal education,Fail
+16,Female,SS2,52,Pass,3,Frequently,Never,No,1,Yes,3,Frequently,No,Occasionally,Yes,School Bus,5,No,Secondary education,Fail
+17,Female,SS1,88,Excellent,5,Frequently,Always,Yes,3,Yes,5,Frequently,Yes,Frequently,Yes,Public Transportation,4,No,Tertiary education,Pass
+15,Male,SS2,98,Excellent,2,Never,Occasionally,Yes,5,Yes,2,Frequently,Yes,Always,No,Private Transportation,2,Yes,No formal education,Pass
+18,Female,SS3,83,Excellent,1,Occasionally,Never,No,2,Yes,2,Frequently,No,Occasionally,No,Walking,1,Yes,No formal education,Fail
+16,Female,SS2,74,Good,5,Always,Frequently,Yes,2,Yes,4,Never,No,Never,No,Public Transportation,5,No,Secondary education,Fail
+17,Female,SS3,73,Good,3,Occasionally,Never,No,4,Yes,1,Occasionally,No,Frequently,No,Public Transportation,4,Yes,Secondary education,Pass
+17,Male,SS1,98,Excellent,3,Never,Occasionally,No,2,Yes,3,Frequently,Yes,Always,Yes,School Bus,1,Yes,Primary education,Fail
+15,Male,SS3,56,Pass,4,Occasionally,Occasionally,No,5,Yes,4,Always,Yes,Frequently,Yes,Private Transportation,1,No,Tertiary education,Pass
+15,Female,SS1,42,Fail,5,Always,Always,No,5,No,2,Always,Yes,Frequently,No,Public Transportation,4,No,Primary education,Fail
+16,Female,SS3,43,Fail,1,Occasionally,Always,Yes,2,No,2,Frequently,Yes,Never,No,School Bus,2,No,Tertiary education,Fail
+17,Female,SS2,90,Excellent,4,Occasionally,Always,Yes,5,Yes,3,Occasionally,Yes,Always,Yes,Walking,3,No,Secondary education,Pass
+15,Male,SS3,58,Pass,4,Frequently,Occasionally,No,3,No,2,Always,No,Frequently,Yes,Public Transportation,1,No,Tertiary education,Pass
+18,Female,SS1,94,Excellent,5,Never,Never,Yes,4,Yes,1,Frequently,No,Never,No,Walking,4,No,No formal education,Pass
+18,Male,SS2,99,Excellent,5,Always,Occasionally,Yes,1,Yes,3,Always,No,Frequently,Yes,School Bus,2,No,No formal education,Fail
+16,Male,SS1,65,Average,2,Always,Never,No,3,No,2,Occasionally,No,Occasionally,Yes,School Bus,5,Yes,Primary education,Pass
+15,Female,SS3,80,Excellent,2,Never,2 - 3 times a week,No,4,Yes,4,Frequently,Yes,Occasionally,Yes,Walking,1,No,Secondary education,Pass
+13,Male,SS1,59,Pass,1,Always,Never,No,1,Yes,5,Never,Yes,Occasionally,No,Walking,3,No,Tertiary education,Fail
+12,Male,SS1,80,Excellent,4,Never,Never,No,5,Yes,5,Frequently,Yes,Never,No,School Bus,2,No,Tertiary education,Pass

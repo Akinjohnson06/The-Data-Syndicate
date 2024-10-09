@@ -1,0 +1,201 @@
+﻿years,mock_exams,learning_materials,private_tutoring,students_challenge,school_resources,extracurriculum,passing_rate,influencing_factors,parents_communication
+1,Once a term,No,Yes,Lack of study material,Yes,Monthly,31-50,Access to resources,Once a term
+1,Never,No,Yes,Low motivation,No,Weekly,0-10,Student motivation,Once a term
+7,Monthly,No,Yes,Difficulty understanding subjects,No,Once a term,0-10,Student motivation,Once a term
+5,Never,No,No,Lack of study material,Yes,Weekly,0-10,Student motivation,Once a term
+6,Once a term,Yes,Yes,Poor study habit,No,Never,11-30%,Access to resources,Weekly
+4,Weekly,No,No,Difficulty understanding subjects,Yes,Once a term,0-10,Access to resources,Never
+10,Weekly,Yes,No,Lack of study material,No,Weekly,31-50,Access to resources,Once a term
+4,Once a term,No,Yes,Low motivation,No,Weekly,>51,Student motivation,Weekly
+9,Once a term,Yes,No,Lack of study material,Yes,Never,31-50,Quality of teaching,Monthly
+8,Weekly,Yes,Yes,Lack of study material,No,Once a term,>51,Access to resources,Never
+1,Once a term,No,No,Difficulty understanding subjects,No,Once a term,>51,Student motivation,Once a term
+6,Once a term,Yes,Yes,Difficulty understanding subjects,No,Never,>51,Socioeconomic factors,Once a term
+9,Weekly,Yes,Yes,Poor study habit,Yes,Monthly,0-10,Access to resources,Once a term
+3,Once a term,Yes,Yes,Low motivation,No,Weekly,0-10,Student motivation,Never
+9,Once a term,Yes,Yes,Difficulty understanding subjects,No,Monthly,31-50,Access to resources,Monthly
+10,Monthly,Yes,No,Lack of study material,Yes,Never,>51,Access to resources,Weekly
+7,Never,No,No,Lack of study material,Yes,Weekly,>51,Student motivation,Weekly
+7,Weekly,Yes,No,Lack of study material,No,Never,11-30%,Quality of teaching,Never
+2,Monthly,Yes,Yes,Lack of study material,Yes,Never,11-30%,Socioeconomic factors,Never
+9,Weekly,Yes,Yes,Lack of study material,Yes,Monthly,>51,Quality of teaching,Monthly
+8,Monthly,No,No,Low motivation,Yes,Weekly,>51,Quality of teaching,Never
+2,Never,Yes,No,Low motivation,No,Once a term,>51,Student motivation,Monthly
+9,Weekly,No,No,Low motivation,No,Once a term,31-50,Quality of teaching,Never
+9,Once a term,Yes,Yes,Low motivation,Yes,Weekly,31-50,Socioeconomic factors,Never
+6,Weekly,Yes,Yes,Lack of study material,No,Monthly,>51,Socioeconomic factors,Never
+5,Once a term,No,Yes,Lack of study material,No,Weekly,0-10,Quality of teaching,Weekly
+4,Weekly,No,Yes,Difficulty understanding subjects,No,Once a term,>51,Socioeconomic factors,Monthly
+9,Monthly,Yes,Yes,Lack of study material,Yes,Never,11-30%,Socioeconomic factors,Once a term
+6,Never,Yes,Yes,Poor study habit,Yes,Once a term,0-10,Socioeconomic factors,Never
+9,Weekly,Yes,Yes,Poor study habit,No,Never,0-10,Quality of teaching,Monthly
+7,Monthly,Yes,No,Difficulty understanding subjects,Yes,Weekly,0-10,Access to resources,Monthly
+7,Once a term,No,No,Lack of study material,No,Weekly,>51,Quality of teaching,Weekly
+9,Never,No,No,Lack of study material,Yes,Monthly,0-10,Student motivation,Monthly
+5,Monthly,No,Yes,Low motivation,Yes,Weekly,>51,Socioeconomic factors,Monthly
+9,Weekly,Yes,No,Difficulty understanding subjects,No,Once a term,>51,Access to resources,Weekly
+7,Never,Yes,Yes,Lack of study material,No,Once a term,0-10,Quality of teaching,Once a term
+3,Once a term,Yes,No,Low motivation,No,Never,>51,Socioeconomic factors,Once a term
+2,Monthly,Yes,No,Difficulty understanding subjects,No,Never,0-10,Quality of teaching,Never
+1,Once a term,Yes,Yes,Poor study habit,Yes,Never,31-50,Quality of teaching,Never
+10,Monthly,No,No,Poor study habit,Yes,Monthly,>51,Quality of teaching,Once a term
+8,Monthly,No,No,Poor study habit,Yes,Monthly,0-10,Access to resources,Weekly
+5,Never,No,No,Poor study habit,Yes,Once a term,>51,Socioeconomic factors,Monthly
+4,Weekly,No,Yes,Low motivation,No,Monthly,0-10,Socioeconomic factors,Once a term
+4,Never,No,No,Lack of study material,No,Never,>51,Access to resources,Once a term
+10,Weekly,No,Yes,Difficulty understanding subjects,Yes,Weekly,31-50,Socioeconomic factors,Once a term
+5,Monthly,Yes,Yes,Lack of study material,No,Weekly,0-10,Access to resources,Once a term
+1,Never,Yes,Yes,Poor study habit,No,Never,0-10,Socioeconomic factors,Never
+6,Monthly,No,No,Poor study habit,Yes,Monthly,0-10,Access to resources,Once a term
+5,Once a term,No,Yes,Low motivation,Yes,Weekly,0-10,Student motivation,Weekly
+5,Weekly,No,No,Lack of study material,No,Weekly,>51,Student motivation,Once a term
+1,Weekly,Yes,No,Lack of study material,No,Weekly,>51,Student motivation,Weekly
+8,Once a term,No,Yes,Difficulty understanding subjects,No,Never,11-30%,Access to resources,Never
+3,Monthly,No,Yes,Lack of study material,Yes,Monthly,11-30%,Access to resources,Once a term
+1,Monthly,No,Yes,Low motivation,Yes,Never,>51,Socioeconomic factors,Never
+2,Once a term,Yes,Yes,Poor study habit,Yes,Monthly,11-30%,Quality of teaching,Once a term
+8,Once a term,Yes,Yes,Poor study habit,Yes,Monthly,31-50,Access to resources,Once a term
+1,Never,Yes,No,Poor study habit,No,Once a term,>51,Socioeconomic factors,Once a term
+4,Monthly,No,No,Poor study habit,Yes,Weekly,>51,Access to resources,Monthly
+9,Monthly,No,Yes,Difficulty understanding subjects,Yes,Monthly,31-50,Socioeconomic factors,Never
+2,Weekly,No,Yes,Poor study habit,Yes,Weekly,0-10,Student motivation,Never
+5,Never,No,Yes,Low motivation,Yes,Once a term,0-10,Access to resources,Weekly
+7,Monthly,Yes,Yes,Lack of study material,No,Monthly,0-10,Access to resources,Never
+5,Monthly,No,No,Difficulty understanding subjects,Yes,Monthly,0-10,Quality of teaching,Monthly
+5,Once a term,No,Yes,Poor study habit,No,Once a term,11-30%,Student motivation,Weekly
+1,Monthly,Yes,No,Difficulty understanding subjects,Yes,Once a term,>51,Access to resources,Monthly
+9,Weekly,No,Yes,Lack of study material,No,Never,11-30%,Quality of teaching,Once a term
+5,Once a term,Yes,Yes,Poor study habit,Yes,Monthly,31-50,Student motivation,Weekly
+6,Monthly,Yes,Yes,Low motivation,No,Weekly,0-10,Socioeconomic factors,Monthly
+5,Once a term,Yes,Yes,Difficulty understanding subjects,No,Once a term,31-50,Socioeconomic factors,Never
+1,Once a term,Yes,Yes,Difficulty understanding subjects,Yes,Weekly,31-50,Socioeconomic factors,Weekly
+5,Monthly,No,Yes,Low motivation,Yes,Weekly,>51,Socioeconomic factors,Weekly
+9,Once a term,No,Yes,Difficulty understanding subjects,No,Once a term,31-50,Socioeconomic factors,Once a term
+6,Weekly,No,Yes,Poor study habit,Yes,Once a term,11-30%,Student motivation,Once a term
+1,Monthly,No,No,Lack of study material,No,Monthly,>51,Access to resources,Never
+7,Weekly,Yes,No,Poor study habit,No,Once a term,0-10,Quality of teaching,Weekly
+5,Once a term,No,No,Low motivation,Yes,Monthly,0-10,Socioeconomic factors,Weekly
+4,Monthly,Yes,No,Low motivation,Yes,Once a term,31-50,Student motivation,Weekly
+2,Once a term,No,No,Lack of study material,No,Weekly,11-30%,Quality of teaching,Once a term
+7,Weekly,No,Yes,Low motivation,Yes,Monthly,31-50,Access to resources,Weekly
+8,Never,Yes,Yes,Low motivation,Yes,Once a term,>51,Student motivation,Once a term
+4,Once a term,Yes,No,Lack of study material,No,Weekly,11-30%,Quality of teaching,Never
+1,Monthly,No,No,Lack of study material,No,Monthly,11-30%,Quality of teaching,Weekly
+4,Monthly,No,Yes,Lack of study material,No,Once a term,11-30%,Access to resources,Monthly
+10,Once a term,Yes,No,Low motivation,Yes,Monthly,0-10,Student motivation,Once a term
+7,Weekly,No,No,Poor study habit,No,Once a term,>51,Socioeconomic factors,Once a term
+6,Never,Yes,Yes,Poor study habit,Yes,Once a term,31-50,Quality of teaching,Never
+1,Once a term,No,Yes,Poor study habit,Yes,Never,31-50,Access to resources,Monthly
+6,Once a term,No,Yes,Low motivation,Yes,Never,11-30%,Access to resources,Monthly
+5,Monthly,Yes,No,Lack of study material,No,Weekly,>51,Access to resources,Once a term
+5,Monthly,Yes,No,Lack of study material,No,Once a term,0-10,Access to resources,Monthly
+5,Never,No,Yes,Difficulty understanding subjects,No,Monthly,>51,Access to resources,Once a term
+3,Weekly,Yes,Yes,Difficulty understanding subjects,Yes,Never,0-10,Quality of teaching,Once a term
+3,Monthly,No,No,Poor study habit,Yes,Weekly,11-30%,Socioeconomic factors,Weekly
+5,Once a term,Yes,No,Difficulty understanding subjects,No,Monthly,>51,Student motivation,Once a term
+8,Once a term,No,Yes,Lack of study material,Yes,Once a term,31-50,Access to resources,Once a term
+3,Weekly,No,Yes,Difficulty understanding subjects,Yes,Once a term,0-10,Quality of teaching,Never
+5,Monthly,No,Yes,Difficulty understanding subjects,Yes,Once a term,0-10,Socioeconomic factors,Monthly
+10,Once a term,No,Yes,Difficulty understanding subjects,No,Never,31-50,Student motivation,Weekly
+5,Once a term,Yes,Yes,Poor study habit,Yes,Once a term,0-10,Socioeconomic factors,Monthly
+1,Weekly,Yes,No,Poor study habit,No,Weekly,31-50,Socioeconomic factors,Once a term
+5,Never,No,No,Low motivation,Yes,Once a term,31-50,Student motivation,Once a term
+3,Weekly,No,Yes,Lack of study material,No,Once a term,11-30%,Socioeconomic factors,Weekly
+10,Once a term,Yes,No,Lack of study material,No,Monthly,11-30%,Socioeconomic factors,Weekly
+4,Weekly,Yes,Yes,Poor study habit,Yes,Never,31-50,Quality of teaching,Weekly
+1,Weekly,Yes,Yes,Difficulty understanding subjects,No,Once a term,11-30%,Socioeconomic factors,Once a term
+2,Once a term,No,Yes,Difficulty understanding subjects,Yes,Monthly,0-10,Access to resources,Once a term
+2,Weekly,No,No,Poor study habit,Yes,Monthly,31-50,Quality of teaching,Weekly
+8,Never,No,Yes,Poor study habit,Yes,Once a term,11-30%,Socioeconomic factors,Monthly
+5,Once a term,Yes,Yes,Lack of study material,No,Monthly,>51,Access to resources,Once a term
+3,Never,Yes,Yes,Difficulty understanding subjects,Yes,Weekly,0-10,Access to resources,Once a term
+5,Never,Yes,No,Lack of study material,Yes,Weekly,31-50,Student motivation,Never
+4,Once a term,No,No,Difficulty understanding subjects,Yes,Never,0-10,Access to resources,Once a term
+2,Once a term,Yes,No,Difficulty understanding subjects,No,Never,31-50,Quality of teaching,Monthly
+8,Once a term,No,No,Poor study habit,Yes,Monthly,11-30%,Socioeconomic factors,Weekly
+9,Once a term,Yes,No,Poor study habit,No,Weekly,>51,Socioeconomic factors,Monthly
+5,Never,Yes,No,Low motivation,No,Monthly,0-10,Quality of teaching,Never
+9,Never,No,No,Poor study habit,No,Never,31-50,Quality of teaching,Once a term
+5,Once a term,Yes,Yes,Low motivation,Yes,Monthly,>51,Quality of teaching,Monthly
+1,Never,No,No,Poor study habit,No,Monthly,0-10,Socioeconomic factors,Monthly
+9,Never,Yes,No,Difficulty understanding subjects,Yes,Monthly,11-30%,Quality of teaching,Once a term
+2,Weekly,Yes,Yes,Lack of study material,No,Never,31-50,Socioeconomic factors,Weekly
+8,Weekly,Yes,No,Lack of study material,Yes,Never,0-10,Student motivation,Weekly
+6,Monthly,Yes,No,Lack of study material,No,Never,>51,Socioeconomic factors,Never
+7,Weekly,No,No,Poor study habit,Yes,Weekly,0-10,Access to resources,Never
+2,Weekly,Yes,No,Low motivation,No,Once a term,>51,Student motivation,Never
+1,Monthly,Yes,Yes,Lack of study material,No,Once a term,11-30%,Quality of teaching,Never
+8,Never,No,Yes,Poor study habit,Yes,Never,>51,Socioeconomic factors,Once a term
+6,Never,Yes,No,Low motivation,No,Weekly,>51,Student motivation,Never
+2,Never,No,Yes,Low motivation,Yes,Never,31-50,Access to resources,Weekly
+5,Monthly,Yes,No,Difficulty understanding subjects,Yes,Once a term,31-50,Quality of teaching,Once a term
+9,Weekly,No,No,Low motivation,No,Weekly,0-10,Access to resources,Never
+8,Once a term,Yes,No,Low motivation,Yes,Never,>51,Socioeconomic factors,Once a term
+1,Weekly,Yes,No,Poor study habit,No,Once a term,0-10,Access to resources,Weekly
+1,Once a term,Yes,Yes,Lack of study material,No,Never,31-50,Student motivation,Weekly
+1,Once a term,No,Yes,Low motivation,Yes,Weekly,>51,Quality of teaching,Weekly
+8,Weekly,Yes,Yes,Poor study habit,Yes,Never,0-10,Student motivation,Weekly
+3,Weekly,Yes,No,Poor study habit,Yes,Once a term,31-50,Student motivation,Once a term
+10,Weekly,Yes,No,Low motivation,Yes,Weekly,0-10,Access to resources,Weekly
+9,Monthly,No,Yes,Lack of study material,Yes,Weekly,>51,Quality of teaching,Weekly
+8,Never,Yes,Yes,Low motivation,No,Never,0-10,Quality of teaching,Monthly
+5,Never,No,Yes,Low motivation,No,Weekly,11-30%,Access to resources,Never
+5,Monthly,Yes,Yes,Lack of study material,Yes,Monthly,31-50,Student motivation,Weekly
+3,Once a term,No,No,Low motivation,Yes,Never,11-30%,Access to resources,Once a term
+3,Weekly,Yes,Yes,Poor study habit,No,Weekly,31-50,Socioeconomic factors,Once a term
+9,Never,Yes,Yes,Lack of study material,Yes,Weekly,0-10,Socioeconomic factors,Weekly
+9,Weekly,Yes,No,Difficulty understanding subjects,No,Monthly,31-50,Quality of teaching,Once a term
+10,Once a term,Yes,No,Lack of study material,No,Once a term,0-10,Access to resources,Monthly
+2,Never,No,Yes,Low motivation,No,Once a term,>51,Student motivation,Weekly
+3,Never,Yes,No,Low motivation,Yes,Once a term,0-10,Access to resources,Once a term
+9,Once a term,No,Yes,Difficulty understanding subjects,Yes,Never,0-10,Socioeconomic factors,Never
+1,Never,No,Yes,Poor study habit,No,Once a term,0-10,Quality of teaching,Once a term
+9,Never,No,Yes,Difficulty understanding subjects,No,Weekly,31-50,Student motivation,Monthly
+4,Weekly,Yes,Yes,Lack of study material,Yes,Monthly,11-30%,Student motivation,Never
+7,Once a term,Yes,Yes,Low motivation,No,Weekly,31-50,Student motivation,Never
+2,Weekly,Yes,Yes,Difficulty understanding subjects,No,Weekly,0-10,Socioeconomic factors,Once a term
+7,Never,Yes,Yes,Poor study habit,No,Once a term,31-50,Quality of teaching,Once a term
+6,Weekly,Yes,Yes,Poor study habit,Yes,Monthly,31-50,Quality of teaching,Never
+1,Monthly,No,No,Low motivation,Yes,Monthly,>51,Quality of teaching,Weekly
+6,Never,Yes,No,Poor study habit,No,Once a term,0-10,Socioeconomic factors,Never
+10,Never,No,No,Low motivation,No,Once a term,0-10,Access to resources,Once a term
+6,Once a term,No,No,Low motivation,Yes,Once a term,0-10,Student motivation,Never
+3,Once a term,No,Yes,Low motivation,Yes,Weekly,11-30%,Student motivation,Once a term
+2,Once a term,No,No,Low motivation,Yes,Monthly,31-50,Quality of teaching,Weekly
+9,Once a term,No,Yes,Poor study habit,Yes,Never,>51,Student motivation,Monthly
+3,Monthly,No,Yes,Difficulty understanding subjects,No,Weekly,11-30%,Student motivation,Never
+3,Once a term,Yes,No,Poor study habit,No,Never,11-30%,Access to resources,Weekly
+10,Once a term,No,Yes,Lack of study material,No,Weekly,31-50,Quality of teaching,Weekly
+1,Never,Yes,Yes,Low motivation,No,Never,11-30%,Access to resources,Monthly
+5,Weekly,Yes,Yes,Low motivation,Yes,Monthly,>51,Student motivation,Once a term
+3,Never,Yes,Yes,Lack of study material,Yes,Weekly,0-10,Student motivation,Monthly
+6,Once a term,Yes,No,Difficulty understanding subjects,Yes,Monthly,31-50,Student motivation,Once a term
+9,Weekly,Yes,Yes,Difficulty understanding subjects,Yes,Weekly,0-10,Student motivation,Monthly
+10,Never,Yes,No,Low motivation,Yes,Never,11-30%,Socioeconomic factors,Weekly
+3,Once a term,Yes,Yes,Difficulty understanding subjects,Yes,Never,11-30%,Student motivation,Never
+4,Once a term,No,Yes,Lack of study material,Yes,Once a term,0-10,Student motivation,Never
+10,Monthly,Yes,Yes,Lack of study material,Yes,Never,11-30%,Quality of teaching,Never
+2,Once a term,Yes,Yes,Lack of study material,Yes,Monthly,31-50,Quality of teaching,Never
+1,Weekly,Yes,Yes,Lack of study material,No,Once a term,>51,Quality of teaching,Once a term
+8,Monthly,No,Yes,Lack of study material,No,Weekly,11-30%,Student motivation,Monthly
+9,Once a term,No,Yes,Poor study habit,No,Weekly,11-30%,Student motivation,Monthly
+9,Once a term,Yes,Yes,Low motivation,No,Monthly,0-10,Student motivation,Once a term
+4,Monthly,Yes,No,Poor study habit,Yes,Weekly,>51,Quality of teaching,Never
+4,Never,Yes,Yes,Difficulty understanding subjects,Yes,Weekly,0-10,Student motivation,Monthly
+9,Once a term,Yes,No,Difficulty understanding subjects,No,Monthly,>51,Access to resources,Weekly
+5,Never,Yes,Yes,Difficulty understanding subjects,Yes,Never,>51,Socioeconomic factors,Weekly
+8,Monthly,No,Yes,Difficulty understanding subjects,No,Never,11-30%,Student motivation,Once a term
+1,Weekly,Yes,No,Poor study habit,No,Monthly,0-10,Student motivation,Never
+7,Never,No,No,Lack of study material,No,Never,31-50,Socioeconomic factors,Monthly
+6,Weekly,No,No,Low motivation,Yes,Monthly,>51,Access to resources,Once a term
+10,Once a term,No,Yes,Difficulty understanding subjects,No,Never,11-30%,Student motivation,Weekly
+8,Weekly,No,Yes,Lack of study material,Yes,Never,>51,Socioeconomic factors,Once a term
+5,Once a term,Yes,Yes,Low motivation,Yes,Never,31-50,Student motivation,Weekly
+3,Never,No,No,Difficulty understanding subjects,No,Never,0-10,Socioeconomic factors,Weekly
+6,Weekly,No,No,Poor study habit,No,Weekly,11-30%,Access to resources,Never
+8,Never,No,Yes,Low motivation,No,Never,11-30%,Socioeconomic factors,Weekly
+7,Weekly,No,No,Lack of study material,Yes,Once a term,>51,Quality of teaching,Weekly
+3,Once a term,No,No,Poor study habit,Yes,Once a term,>51,Socioeconomic factors,Monthly
+1,Monthly,No,Yes,Difficulty understanding subjects,No,Never,31-50,Socioeconomic factors,Never
+9,Weekly,Yes,No,Lack of study material,No,Weekly,31-50,Access to resources,Monthly
+1,Never,Yes,No,Difficulty understanding subjects,Yes,Monthly,11-30%,Quality of teaching,Monthly
